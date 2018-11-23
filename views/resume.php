@@ -1,6 +1,6 @@
 <?php
 	$page = Array("title" => "Resume", "id" => "resume");
-	require("views/shared/header.php");
+	require("shared/header.php");
 ?>
 
 <header>

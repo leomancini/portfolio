@@ -1,6 +1,6 @@
 <?php
 	$page = Array("title" => "Selected Work", "id" => "index");
-	require("views/shared/header.php");
+	require("shared/header.php");
 ?>
 
 <div id="preload">
