@@ -34,7 +34,7 @@
 
 <div id="navigation">
 	<div class="links">
-		<a href="#fb-stories-and-direct" data-section-id="fb-stories-and-direct">Stories</a><a href="#fb-friends-browser" data-section-id="fb-friends-browser">Friends</a><a href="#fb-riff" data-section-id="fb-riff">Riff</a><a href="#fb-text-filters" data-section-id="fb-text-filters">Filters</a><a href="#fb-trending" data-section-id="fb-trending">Trending</a><a href="#place-lists" data-section-id="place-lists">Lists</a><a href="#fb-news-feed-discovery" data-section-id="fb-news-feed-discovery">Feed Discovery</a><a href="#fb-pages" data-section-id="fb-pages">Pages</a><a href="#fb-threaded-comments" data-section-id="fb-threaded-comments">Threads</a>
+		<a href="#fb-stories-and-direct" data-section-id="fb-stories-and-direct"<?php if($internal_page_switch) { echo ' class="selected"'; } ?>>Stories</a><a href="#fb-friends-browser" data-section-id="fb-friends-browser">Friends</a><a href="#fb-riff" data-section-id="fb-riff">Riff</a><a href="#fb-text-filters" data-section-id="fb-text-filters">Filters</a><a href="#fb-trending" data-section-id="fb-trending">Trending</a><a href="#place-lists" data-section-id="place-lists">Lists</a><a href="#fb-news-feed-discovery" data-section-id="fb-news-feed-discovery">Feed Discovery</a><a href="#fb-pages" data-section-id="fb-pages">Pages</a><a href="#fb-threaded-comments" data-section-id="fb-threaded-comments">Threads</a>
 	</div>
 	<div class="grey-divider bottom-white"></div>
 	<div id="shadow"></div>

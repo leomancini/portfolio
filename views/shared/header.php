@@ -21,9 +21,22 @@
 		$browser = "unknown";
 	}
 	
-	if(isset($_SERVER['HTTP_CACHE_CONTROL']) && $_SERVER['HTTP_CACHE_CONTROL'] === 'max-age=0' || (preg_match("/leo.gd/", $_SERVER["HTTP_REFERER"]) || preg_match("/localhost/", $_SERVER["HTTP_REFERER"]))) {
+	// if page is being reloaded	
+	if($_SERVER["HTTP_CACHE_CONTROL"] === "max-age=0") {
+		if($page["id"] == "index") {
+			// FADE IN on index is being reloaded
+			$internal_page_switch = false;
+		} else {
+			// DON'T FADE IN on other pages
+			$internal_page_switch = true;
+		}
+	// if page is being loaded from internal page
+	} elseif((preg_match("/leo.gd/", $_SERVER["HTTP_REFERER"]) || preg_match("/localhost/", $_SERVER["HTTP_REFERER"]))) {
+		// DON'T FADE IN
 		$internal_page_switch = true;
+	// otherwise, page is not being reloaded and is being loaded from external page	
 	} else {
+		// FADE IN
 		$internal_page_switch = false;
 	}
 ?>
