@@ -200,6 +200,8 @@ function toggle_expanded_content(section_id_function_variable) {
 			section_id = $(this).attr("id");
 			window.section_position[section_id] = Math.round($(this).offset().top);
 		});
+		
+		window.section_map = build_map_of_sections(window.section_ids);
 	}, 1500);
 }
 
