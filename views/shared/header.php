@@ -3,11 +3,11 @@
 	
 	if($_SERVER['SERVER_NAME'] == "localhost" || $_SERVER['SERVER_NAME'] == "leo.local") {
 		$server = "local";
+		$path = "/portfolio2018/git/";
 	} else {
 		$server = "remote";
+		$path = "/portfolio2018/";
 	}
-	
-	$path = "/portfolio2018/no-content/";
 	
 	$browsers_with_stylesheet_variation = Array("chrome", "safari");
 	
