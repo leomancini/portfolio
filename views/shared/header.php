@@ -1,16 +1,16 @@
 <?php
 	session_start();
-
+	
 	if($_SERVER['SERVER_NAME'] == "localhost" || $_SERVER['SERVER_NAME'] == "leo.local") {
 		$server = "local";
-		$path = "/portfolio2018/git/";
 	} else {
 		$server = "remote";
-		$path = "/portfolio2018/";
 	}
-
+	
+	$path = "/portfolio2018/no-content/";
+	
 	$browsers_with_stylesheet_variation = Array("chrome", "safari");
-
+	
 	if(preg_match("/chrome/i", $_SERVER['HTTP_USER_AGENT'])) {
 		$browser = "chrome";
 	} elseif(preg_match("/safari/i", $_SERVER['HTTP_USER_AGENT'])) {
@@ -20,7 +20,7 @@
 	} else {
 		$browser = "unknown";
 	}
-
+	
 	if(isset($_SERVER['HTTP_CACHE_CONTROL']) && $_SERVER['HTTP_CACHE_CONTROL'] === 'max-age=0' || (preg_match("/leo.gd/", $_SERVER["HTTP_REFERER"]) || preg_match("/localhost/", $_SERVER["HTTP_REFERER"]))) {
 		$internal_page_switch = true;
 	} else {
@@ -55,10 +55,10 @@
 			<link rel="stylesheet" href="<?php echo $path; ?>resources/css/browser-specific/<?php echo $browser; ?>.css">
 		<?php } ?>
 		<script src="<?php echo $path; ?>resources/js/lib/less.js"></script>
-		<script type="text/javascript"> window.this_page = "index"; </script>
+		<script type="text/javascript"> window.this_page = "<?php echo $page["id"]; ?>"; </script>
 		<script src="<?php echo $path; ?>resources/js/lib/jquery.js"></script>
 		<script src="<?php echo $path; ?>resources/js/main.js"></script>
 		<meta name="viewport" content="width=1300">
 	</head>
 	<body>
-		<div id="container" class="grey<?php if($internal_page_switch == true) { echo " internal-page-switch"; } ?>">
+		<div id="container"<?php if($internal_page_switch == true) { echo " class='internal-page-switch'"; } ?>>

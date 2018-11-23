@@ -146,4 +146,4 @@
 	</div>
 </div>
 
-<?php require("views/shared/footer.php"); ?>
+<?php require("shared/footer.php"); ?>

@@ -265,10 +265,10 @@ function build_map_of_sections(section_ids) {
 }
 
 function update_navigation_link_selected_states(scroll_position, section_ids) {
-	if(scroll_position < $("header").height()) {
-		$("#navigation a[data-section-id='"+section_ids[0]+"']").addClass("selected");
-	}
 	if(section_ids) {
+		if(scroll_position < $("header").height()) {
+			$("#navigation a[data-section-id='"+section_ids[0]+"']").addClass("selected");
+		}
 		section_ids.forEach(function(section_id) {
 			if( scroll_position > 0 &&
 				scroll_position >= window.section_map[section_id]["top"] &&
