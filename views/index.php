@@ -31,6 +31,7 @@
 </header>
 
 <div class="grey-divider"></div>
+
 <div id="navigation">
 	<div class="links">
 		<a href="#fb-stories-and-direct" data-section-id="fb-stories-and-direct">Stories</a><a href="#fb-friends-browser" data-section-id="fb-friends-browser">Friends</a><a href="#fb-riff" data-section-id="fb-riff">Riff</a><a href="#fb-text-filters" data-section-id="fb-text-filters">Filters</a><a href="#fb-trending" data-section-id="fb-trending">Trending</a><a href="#place-lists" data-section-id="place-lists">Lists</a><a href="#fb-news-feed-discovery" data-section-id="fb-news-feed-discovery">Feed Discovery</a><a href="#fb-pages" data-section-id="fb-pages">Pages</a><a href="#fb-threaded-comments" data-section-id="fb-threaded-comments">Threads</a>
@@ -268,7 +269,7 @@
 
 <div id="fb-riff" class="section-pointer"></div>
 
-<div id="fb-riff-content" class="section pink">
+<div id="fb-riff-content" class="section riff">
 	<div class="header">
 		<img src="<?php echo $path; ?>content/fb-riff/header-icon.jpg" style="width: 197px; height: 197px; margin-top: -36px; margin-bottom: -32px;">
 		<h1>Facebook Riff</h1>

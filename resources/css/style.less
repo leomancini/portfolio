@@ -306,7 +306,7 @@ html, body {
 		
 		#navigation-fixed-spacer {
 			width: 100%;
-			height: 50px;
+			height: 51px;
 			display: none;
 			
 			&.fixed {
@@ -328,7 +328,7 @@ html, body {
 		.section {
 			width: 100%;
 			text-align: center;
-			display: inline-block;
+			display: block;
 			padding-bottom: 75px;
 			overflow: hidden;
 			float: left;
@@ -868,7 +868,7 @@ html, body {
 				
 			}
 			
-			&.pink {
+			&.riff {
 				background: #E42879;
 				
 				::selection {
@@ -876,16 +876,20 @@ html, body {
 					background: #02DAFF;
 				}
 			
-				h1 {
-					font-family: "Helvetica Rounded", "Helvetica Neue", "Helvetica", Arial, sans-serif;
-					font-weight: 400;
-					color: #FFFFFF;
-				}
+				.header {
+					height: 240px; // set height manuall for this section because height will change after loading custom font and make all elements below shift after font is loaded
+					
+					h1 {
+						font-family: "Helvetica Rounded", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+						font-weight: 400;
+						color: #FFFFFF;
+					}
 			
-				h2 {
-					font-family: "Helvetica Rounded", "Helvetica Neue", "Helvetica", Arial, sans-serif;
-					font-weight: 400;
-					color: #FFF100;
+					h2 {
+						font-family: "Helvetica Rounded", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+						font-weight: 400;
+						color: #FFF100;
+					}
 				}
 			
 				button#info-button {
