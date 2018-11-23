@@ -248,7 +248,7 @@ $(document).ready(function() {
 				update_navigation_link_selected_states(scroll_position, window.section_ids);
 				update_navigation_position_state(scroll_position);	
 				update_location_hash_on_scroll(scroll_position);
-			}, 200);
+			}, 100);
 		}
 	}, 200);
 
