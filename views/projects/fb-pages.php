@@ -1,6 +1,8 @@
-<div id="fb-pages" class="section-pointer"></div>
+<?php $project = pathinfo(__FILE__, PATHINFO_FILENAME); ?>
 
-<div id="fb-pages-content" class="section light grey monochrome">
+<div id="<?php echo $project; ?>" class="section-pointer"></div>
+
+<div id="<?php echo $project; ?>-content" class="section light grey monochrome">
 	<div class="header">
 		<h1>Facebook Pages</h1>
 		<h2>Connect and interact with your favorite<br>artists, restaurants, businesses, etc.</h2>
@@ -30,7 +32,7 @@
 		<div class="slide selected" id="slide_0">
 			<div class="slide-contents">							
 				<div class="image-with-loading-placeholder">
-					<img src="<?php echo $path; ?>content/fb-pages/page.jpg" style="width: 1001px; height: 958px; position: absolute; left: 50%; margin-left: -500px;">
+					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/page.jpg" style="width: 1001px; height: 958px; position: absolute; left: 50%; margin-left: -500px;">
 					<div class="placeholder" style="width: 961px; height: 958px; left: 50%; top: 12px; margin-left: -480px;">
 						<div class="desktop-loading-top" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-top.jpg" style="width: 961px; height: 40px;"></div>
 						<div class="desktop-loading-middle" style="background: #FFFFFF; position: absolute; width: 961px; height: 850px; margin-top: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-middle.jpg" style="width: 961px; height: 100%;"></div>

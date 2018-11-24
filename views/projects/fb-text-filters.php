@@ -1,8 +1,10 @@
-<div id="fb-text-filters" class="section-pointer"></div>
+<?php $project = pathinfo(__FILE__, PATHINFO_FILENAME); ?>
 
-<div id="fb-text-filters-content" class="section text-filters">
+<div id="<?php echo $project; ?>" class="section-pointer"></div>
+
+<div id="<?php echo $project; ?>-content" class="section text-filters">
 	<div class="background">
-		<img src="<?php echo $path; ?>content/fb-text-filters/overview.jpg">
+		<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg">
 	</div>
 	
 	<div class="header">

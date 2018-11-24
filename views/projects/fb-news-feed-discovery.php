@@ -1,6 +1,8 @@
-<div id="fb-news-feed-discovery" class="section-pointer"></div>
+<?php $project = pathinfo(__FILE__, PATHINFO_FILENAME); ?>
 
-<div id="fb-news-feed-discovery-content" class="section dark">
+<div id="<?php echo $project; ?>" class="section-pointer"></div>
+
+<div id="<?php echo $project; ?>-content" class="section dark">
 	<div class="header">
 		<h1>Facebook News Feed Discovery</h1>
 		<h2>Discover new and relevant<br>articles, videos, photos, and news.</h2>
@@ -32,13 +34,13 @@
 		<div class="slide selected" id="slide_0">
 			<div class="slide-contents">
 				<div class="image-with-loading-placeholder">
-					<img src="<?php echo $path; ?>content/fb-news-feed-discovery/overview.jpg" style="width: 1903px; height: 726px; position: absolute; left: 50%; margin-left: -951px;">
+					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg" style="width: 1903px; height: 726px; position: absolute; left: 50%; margin-left: -951px;">
 					<div class="placeholder" style="width: 1906px; height: 726px; left: 50%; margin-left: -953px;">
-						<img src="<?php echo $path; ?>content/fb-news-feed-discovery/overview-loading.jpg" style="width: 341px; height: 724px">
-						<img src="<?php echo $path; ?>content/fb-news-feed-discovery/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
-						<img src="<?php echo $path; ?>content/fb-news-feed-discovery/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
-						<img src="<?php echo $path; ?>content/fb-news-feed-discovery/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
-						<img src="<?php echo $path; ?>content/fb-news-feed-discovery/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 724px">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
 					</div>
 				</div>	
 			</div>

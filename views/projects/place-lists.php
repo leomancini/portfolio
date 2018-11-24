@@ -1,6 +1,8 @@
-<div id="place-lists" class="section-pointer"></div>
+<?php $project = pathinfo(__FILE__, PATHINFO_FILENAME); ?>
 
-<div id="place-lists-content" class="section light grey monochrome">
+<div id="<?php echo $project; ?>" class="section-pointer"></div>
+
+<div id="<?php echo $project; ?>-content" class="section light grey monochrome">
 	<div class="grey-divider"></div>
 	<div class="header">
 		<h1>Place Lists</h1>
@@ -24,7 +26,7 @@
 				<p>This was a personal project I built during the summer of 2017.</p><p>I designed the interface and built a system for syncing with the Foursquare API to keep the data up to date.</p><p>I engineered all the features to filter, search, and browse places and lists.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" href="http://places.leo.gd/">All Lists</a><a target="_blank" href="http://places.leo.gd/san-francisco">City Page</a><a target="_blank" href="http://places.leo.gd/san-francisco/food/mexican">Category Filter</a><a target="_blank" href="http://places.leo.gd/san-francisco:mission-district">Neighborhood Filter</a><a target="_blank" href="https://github.com/leomancini31/place-lists">Source Code</a>
+				<a target="_blank" href="http://places.leo.gd/">All Lists</a><a target="_blank" href="http://places.leo.gd/san-francisco">City Page</a><a target="_blank" href="http://places.leo.gd/san-francisco/food/mexican">Category Filter</a><a target="_blank" href="http://places.leo.gd/san-francisco:mission-district">Neighborhood Filter</a><a target="_blank" href="https://github.com/leomancini31/<?php echo $project; ?>">Source Code</a>
 			</div>
 		</div>
 	

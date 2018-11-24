@@ -1,6 +1,8 @@
-<div id="fb-threaded-comments" class="section-pointer"></div>
+<?php $project = pathinfo(__FILE__, PATHINFO_FILENAME); ?>
 
-<div id="fb-threaded-comments-content" class="section light white monochrome">
+<div id="<?php echo $project; ?>" class="section-pointer"></div>
+
+<div id="<?php echo $project; ?>-content" class="section light white monochrome">
 	<div class="grey-divider" style="height: 1px;"></div>
 	<div class="header">
 		<h1>Facebook Threaded Comments</h1>
@@ -33,9 +35,9 @@
 		<div class="slide selected" id="slide_0">
 			<div class="slide-contents">							
 				<div class="image-with-loading-placeholder">
-					<img src="<?php echo $path; ?>content/fb-threaded-comments/desktop-mobile.jpg" style="width: 1133px; height: 933px; position: absolute; left: 50%; margin-left: -566px;">
+					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/desktop-mobile.jpg" style="width: 1133px; height: 933px; position: absolute; left: 50%; margin-left: -566px;">
 					<div class="placeholder" style="width: 1113px; height: 916px; left: 50%; top: 13px; margin-left: -566px;">
-						<img src="<?php echo $path; ?>content/fb-threaded-comments/desktop-mobile-loading.jpg" style="width: 1113px; height: 916px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/desktop-mobile-loading.jpg" style="width: 1113px; height: 916px;">
 					</div>
 				</div>
 			</div>

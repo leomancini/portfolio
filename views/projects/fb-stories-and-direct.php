@@ -1,6 +1,8 @@
-<div id="fb-stories-and-direct" class="section-pointer"></div>
+<?php $project = pathinfo(__FILE__, PATHINFO_FILENAME); ?>
 
-<div id="fb-stories-and-direct-content" class="section light grey-blue">
+<div id="<?php echo $project; ?>" class="section-pointer"></div>
+
+<div id="<?php echo $project; ?>-content" class="section light grey-blue">
 	<div class="header">
 		<h1>Facebook Stories and Direct</h1>
 		<h2>Share your day with friends<br>and send private visual messages.</h2>
@@ -31,7 +33,7 @@
 			<div class="slide-thumbnail-wrapper selected" id="slide_0">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-stories-and-direct/thumbs/overview.jpg" style="width: 170px; height: 113px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/overview.jpg" style="width: 170px; height: 113px;">
 					</div>
 				</div>
 				<label>Overview</label>
@@ -39,7 +41,7 @@
 			<div class="slide-thumbnail-wrapper" id="slide_1">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-stories-and-direct/thumbs/fblite.jpg" style="width: 146px; height: 83px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/fblite.jpg" style="width: 146px; height: 83px;">
 					</div>
 				</div>
 				<label>Small Screen Devices</label>
@@ -47,7 +49,7 @@
 			<div class="slide-thumbnail-wrapper" id="slide_2" style="margin-right: 10px; width: 170px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-stories-and-direct/thumbs/desktop.jpg" style="width: 158px; height: 106px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/desktop.jpg" style="width: 158px; height: 106px;">
 					</div>
 				</div>
 				<label>Desktop</label>
@@ -55,7 +57,7 @@
 			<div class="slide-thumbnail-wrapper" id="slide_3" style="margin-right: 0px; width: 160px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-stories-and-direct/thumbs/direct-conversation-flow.jpg" style="width: 66px; height: 113px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/direct-conversation-flow.jpg" style="width: 66px; height: 113px;">
 					</div>
 				</div>
 				<label>Direct Conversation</label>
@@ -63,7 +65,7 @@
 			<div class="slide-thumbnail-wrapper" id="slide_4" style="width: 160px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-stories-and-direct/thumbs/direct-intro-video.jpg" style="width: 66px; height: 113px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/direct-intro-video.jpg" style="width: 66px; height: 113px;">
 					</div>
 				</div>
 				<label>Direct Intro Video</label>
@@ -75,11 +77,11 @@
 		<div class="slide selected" id="slide_0">
 			<div class="slide-contents">
 				<div class="image-with-loading-placeholder">
-					<img src="<?php echo $path; ?>content/fb-stories-and-direct/overview.jpg" style="width: 1115px; height: 711px;">
+					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg" style="width: 1115px; height: 711px;">
 					<div class="placeholder" style="margin: -714px auto 0 auto; text-align: left; width: 1130px;">
-						<img src="<?php echo $path; ?>content/fb-stories-and-direct/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 8px;">
-						<img src="<?php echo $path; ?>content/fb-stories-and-direct/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 42px;">
-						<img src="<?php echo $path; ?>content/fb-stories-and-direct/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 42px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 8px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 42px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 42px;">
 					</div>
 				</div>
 				<div style="width: 1116px; margin: 10px auto 0 auto; display: block;"><div class="caption" style="float: left; width: 338px;">See updates from friends in Stories.</div><div class="caption" style="width: 440px;">Send and receive visual messages.</div><div class="caption" style="float: right; width: 338px;">Talk about what your friend shared.</div></div>
@@ -87,20 +89,20 @@
 		</div>
 		<div class="slide" id="slide_1">
 			<div class="slide-contents">
-				<img data-delay-load-src="<?php echo $path; ?>content/fb-stories-and-direct/fblite.jpg" style="width: 946px; height: 484px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/fblite.jpg" style="width: 946px; height: 484px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Stories and Direct designed for Facebook Lite – intended for devices with small screens.</div>
 			</div>
 		</div>
 		<div class="slide" id="slide_2">
 			<div class="slide-contents">
-				<img data-delay-load-src="<?php echo $path; ?>content/fb-stories-and-direct/desktop.jpg" style="width: 1166px; height: 805px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/desktop.jpg" style="width: 1166px; height: 805px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Stories and Direct designed for desktop browsers. The final version that shipped put Stories into the sidebar.</div>
 			</div>
 		</div>
 		<div class="slide" id="slide_3">
 			<div class="slide-contents">
 				<video width="293" height="522" loop playsinline style="position: absolute; margin-top: 89px; margin-left: 24px;">
-				  <source data-delay-load-src="<?php echo $path; ?>content/fb-stories-and-direct/direct-conversation-flow.mp4" type="video/mp4">
+				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/direct-conversation-flow.mp4" type="video/mp4">
 				</video>
 				<img data-delay-load-src="<?php echo $path; ?>content/common/blank-iphone-black.png" style="width: 341px; height: 711px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Interactions of replying to content received in Direct. The conversation is attached to the photo or video.</div>
@@ -109,7 +111,7 @@
 		<div class="slide" id="slide_4">
 			<div class="slide-contents">
 				<video width="294" height="522" loop playsinline style="position: absolute; margin-top: 89px; margin-left: 24px;">
-				  <source data-delay-load-src="<?php echo $path; ?>content/fb-stories-and-direct/direct-intro-video.mp4" type="video/mp4">
+				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/direct-intro-video.mp4" type="video/mp4">
 				</video>
 				<img data-delay-load-src="<?php echo $path; ?>content/common/blank-iphone-black.png" style="width: 341px; height: 711px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Art direction and production of the demo video for Direct.</div>

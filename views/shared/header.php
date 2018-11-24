@@ -21,24 +21,31 @@
 		$browser = "unknown";
 	}
 	
-	// if page is being reloaded	
-	if($_SERVER["HTTP_CACHE_CONTROL"] === "max-age=0") {
-		if($page["id"] == "index") {
-			// FADE IN on index is being reloaded
-			$internal_page_switch = false;
-		} else {
-			// DON'T FADE IN on other pages
-			$internal_page_switch = true;
-		}
-	// if page is being loaded from internal page
-	} elseif((preg_match("/leo.gd/", $_SERVER["HTTP_REFERER"]) || preg_match("/localhost/", $_SERVER["HTTP_REFERER"]))) {
-		// DON'T FADE IN
-		$internal_page_switch = true;
-	// otherwise, page is not being reloaded and is being loaded from external page	
-	} else {
+	// if source is explicitly set as internal but opened from a different tab
+	if($_GET["s"] == "resume" || $_GET["s"] == "about") {
 		// FADE IN
 		$internal_page_switch = false;
+	} else {
+		// if page is being reloaded	
+		if($_SERVER["HTTP_CACHE_CONTROL"] === "max-age=0") {
+			if($page["id"] == "index") {
+				// FADE IN on index is being reloaded
+				$internal_page_switch = false;
+			} else {
+				// DON'T FADE IN on other pages
+				$internal_page_switch = true;
+			}
+		// if page is being loaded from internal page
+		} elseif((preg_match("/leo.gd/", $_SERVER["HTTP_REFERER"]) || preg_match("/localhost/", $_SERVER["HTTP_REFERER"]))) {
+			// DON'T FADE IN
+			$internal_page_switch = true;
+		// otherwise, page is not being reloaded and is being loaded from external page	
+		} else {
+			// FADE IN
+			$internal_page_switch = false;
+		}
 	}
+	
 ?>
 
 <!DOCTYPE HTML>

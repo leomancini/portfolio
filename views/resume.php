@@ -55,15 +55,15 @@
 				</ul>
 				<span class="projects">
 					<h5>Sharing</h5>
-					<span class="project-name"><a href="//leo.gd/#fb-stories-and-direct" target="_blank">Stories</a></span> &ndash; share your day with friends
+					<span class="project-name"><a href="//leo.gd/?s=resume#fb-stories-and-direct" target="_blank">Stories</a></span> &ndash; share your day with friends
 					<br>
-					<span class="project-name"><a href="//leo.gd/#fb-stories-and-direct" target="_blank">Direct</a></span> &ndash; send ephemeral photos and videos
+					<span class="project-name"><a href="//leo.gd/?s=resume#fb-stories-and-direct" target="_blank">Direct</a></span> &ndash; send ephemeral photos and videos
 					<br>
-					<span class="project-name"><a href="//leo.gd/#fb-friends-browser" target="_blank">Friends Browser</a></span> &ndash; connect with your closest friends
+					<span class="project-name"><a href="//leo.gd/?s=resume#fb-friends-browser" target="_blank">Friends Browser</a></span> &ndash; connect with your closest friends
 					<br>
-					<span class="project-name"><a href="//leo.gd/#fb-riff" target="_blank">Riff</a></span> &ndash; create videos together with friends
+					<span class="project-name"><a href="//leo.gd/?s=resume#fb-riff" target="_blank">Riff</a></span> &ndash; create videos together with friends
 					<br>
-					<span class="project-name"><a href="//leo.gd/#fb-text-filters" target="_blank">Text Filters</a></span> &ndash; add emotion and style to text posts
+					<span class="project-name"><a href="//leo.gd/?s=resume#fb-text-filters" target="_blank">Text Filters</a></span> &ndash; add emotion and style to text posts
 					<br>
 					<h5>Audience</h5>
 					<span class="project-name">Teens</span> &ndash; experiments in visual sharing
@@ -75,15 +75,15 @@
 					<span class="project-name">Small Devices</span> &ndash; interaction optimizations for various devices
 					<br>
 					<h5>Public Content</h5>
-					<span class="project-name"><a href="//leo.gd/#fb-trending" target="_blank">Trending</a></span> &ndash; learn about current events through conversations
+					<span class="project-name"><a href="//leo.gd/?s=resume#fb-trending" target="_blank">Trending</a></span> &ndash; learn about current events through conversations
 					<br>
-					<span class="project-name"><a href="//leo.gd/#fb-news-feed-discovery" target="_blank">News Feed Discovery</a></span> &ndash; discover new articles, videos, and sources
+					<span class="project-name"><a href="//leo.gd/?s=resume#fb-news-feed-discovery" target="_blank">News Feed Discovery</a></span> &ndash; discover new articles, videos, and sources
 					<br>
 					<span class="project-name"><a href="https://newsroom.fb.com/news/2015/09/updates-for-facebook-notes/" target="_blank">Notes</a></span> &ndash; share and read articles and writing
 					<br>
 					<span class="project-name"><a href="https://newsroom.fb.com/news/2014/07/introducing-facebook-mentions-a-new-app-for-public-figures/" target="_blank">Mentions</a></span> &ndash; interact with your followers as a public figure or celebrity
 					<br>
-					<span class="project-name"><a href="//leo.gd/#fb-pages" target="_blank">Pages Redesign</a></span> &ndash; learn about brands and businesses
+					<span class="project-name"><a href="//leo.gd/?s=resume#fb-pages" target="_blank">Pages Redesign</a></span> &ndash; learn about brands and businesses
 				</span>
 			</span>
 		</div>
@@ -95,7 +95,7 @@
 					<h5>Projects</h5>
 					<span class="project-name"><a href="https://venturebeat.com/2012/10/11/facebook-intern-mobile-ads/" target="_blank">Boosted Posts</a></span> &ndash; connect with your audience
 					<br>
-					<span class="project-name"><a href="//leo.gd/#fb-threaded-comments" target="_blank">Threaded Comments</a></span> &ndash; reply to comments
+					<span class="project-name"><a href="//leo.gd/?s=resume#fb-threaded-comments" target="_blank">Threaded Comments</a></span> &ndash; reply to comments
 					<br>
 					<span class="project-name">Topic Pages</span> &ndash; learn about subjects and interests
 				</span>

@@ -1,8 +1,10 @@
-<div id="fb-trending" class="section-pointer"></div>
+<?php $project = pathinfo(__FILE__, PATHINFO_FILENAME); ?>
 
-<div id="fb-trending-content" class="section light white">
+<div id="<?php echo $project; ?>" class="section-pointer"></div>
+
+<div id="<?php echo $project; ?>-content" class="section light white">
 	<div class="header">
-		<img src="<?php echo $path; ?>content/fb-trending/header-icon.jpg" style="width: 50px; height: 34px; margin: 5px 0;">
+		<img src="<?php echo $path; ?>content/<?php echo $project; ?>/header-icon.jpg" style="width: 50px; height: 34px; margin: 5px 0;">
 		<h1>Facebook Trending</h1>
 		<h2>Learn about current<br>events through conversations.</h2>
 	</div>
@@ -32,7 +34,7 @@
 			<div class="slide-thumbnail-wrapper selected" id="slide_0">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-trending/thumbs/topic-page.jpg" style="width: 143px; height: 116px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/topic-page.jpg" style="width: 143px; height: 116px;">
 					</div>
 				</div>
 				<label>Topic Page</label>
@@ -40,7 +42,7 @@
 			<div class="slide-thumbnail-wrapper" id="slide_1">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-trending/thumbs/rhc.jpg" style="width: 140px; height: 116px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/rhc.jpg" style="width: 140px; height: 116px;">
 					</div>
 				</div>
 				<label>Sidebar Unit</label>
@@ -48,7 +50,7 @@
 			<div class="slide-thumbnail-wrapper" id="slide_2">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-trending/thumbs/search-units.jpg" style="width: 168px; height: 114px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/search-units.jpg" style="width: 168px; height: 114px;">
 					</div>
 				</div>
 				<label>Content Sections</label>
@@ -60,7 +62,7 @@
 		<div class="slide selected" id="slide_0">
 			<div class="slide-contents">							
 				<div class="image-with-loading-placeholder">
-					<img src="<?php echo $path; ?>content/fb-trending/topic-page.jpg" style="width: 1001px; height: 801px; position: absolute; left: 50%; margin-left: -500px;">
+					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/topic-page.jpg" style="width: 1001px; height: 801px; position: absolute; left: 50%; margin-left: -500px;">
 					<div class="placeholder" style="width: 961px; height: 801px; left: 50%; top: 12px; margin-left: -480px;">
 						<div class="desktop-loading-top" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-top.jpg" style="width: 961px; height: 40px;"></div>
 						<div class="desktop-loading-middle" style="background: #FFFFFF; position: absolute; width: 961px; height: 690px; margin-top: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-middle.jpg" style="width: 961px; height: 100%;"></div>
@@ -71,13 +73,13 @@
 		</div>
 		<div class="slide" id="slide_1">
 			<div class="slide-contents">
-				<img data-delay-load-src="<?php echo $path; ?>content/fb-trending/rhc.jpg" style="width: 1002px; height: 801px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/rhc.jpg" style="width: 1002px; height: 801px;">
 				<div class="caption" style="display: block; margin-top: 40px;">The unit shows each topic with a headline for context.</div>
 			</div>
 		</div>
 		<div class="slide" id="slide_2">
 			<div class="slide-contents">
-				<img data-delay-load-src="<?php echo $path; ?>content/fb-trending/search-units.jpg" style="width: 1122px; height: 724px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/search-units.jpg" style="width: 1122px; height: 724px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Each section provides a different way to learn about the story.</div>
 			</div>
 		</div>

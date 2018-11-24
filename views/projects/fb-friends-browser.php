@@ -1,6 +1,8 @@
-<div id="fb-friends-browser" class="section-pointer"></div>
+<?php $project = pathinfo(__FILE__, PATHINFO_FILENAME); ?>
 
-<div id="fb-friends-browser-content" class="section dark bottom-edge-flush" data-negative-bottom-offset="6">
+<div id="<?php echo $project; ?>" class="section-pointer"></div>
+
+<div id="<?php echo $project; ?>-content" class="section dark bottom-edge-flush" data-negative-bottom-offset="6">
 	<div class="header">
 		<h1>Facebook Friends Browser</h1>
 		<h2 style="margin-top: 11px;">Connect with your closest friends.</h2>
@@ -28,7 +30,7 @@
 			<div class="slide-thumbnail-wrapper selected" id="slide_0" style="margin-right: 50px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-friends-browser/thumbs/overview.jpg" style="width: 149px; height: 106px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/overview.jpg" style="width: 149px; height: 106px;">
 					</div>
 				</div>
 				<label>Overview</label>
@@ -36,7 +38,7 @@
 			<div class="slide-thumbnail-wrapper" id="slide_1" style="margin-right: 50px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-friends-browser/thumbs/alt-friends-screen.jpg" style="width: 149px; height: 95px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/alt-friends-screen.jpg" style="width: 149px; height: 95px;">
 					</div>
 				</div>
 				<label>Alternate Friends Screen</label>
@@ -44,7 +46,7 @@
 			<div class="slide-thumbnail-wrapper" id="slide_2" style="margin-right: 40px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-friends-browser/thumbs/composer-experiments.jpg" style="width: 149px; height: 95px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/composer-experiments.jpg" style="width: 149px; height: 95px;">
 					</div>
 				</div>
 				<label>Composer Experiments</label>
@@ -52,7 +54,7 @@
 			<div class="slide-thumbnail-wrapper" id="slide_3" style="margin-right: 10px; width: 110px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/fb-friends-browser/thumbs/friend-view-transitions.jpg" style="width: 46px; height: 95px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/friend-view-transitions.jpg" style="width: 46px; height: 95px;">
 					</div>
 				</div>
 				<label>Friend Browsing</label>
@@ -67,34 +69,34 @@
 				<div class="caption arbitrary-position" style="margin-left: 419px; width: 350px; text-align: center;">You pick the friends<br>you want to see posts from.</div>
 				<div class="caption arbitrary-position" style="margin-left: 826px; margin-top: 140px; width: 350px; text-align: left;">Swipe through friends<br>to browse posts.</div>
 				<div class="image-with-loading-placeholder">
-					<img src="<?php echo $path; ?>content/fb-friends-browser/overview.jpg" style="width: 1188px; height: 818px; margin-top: 53px;">
+					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg" style="width: 1188px; height: 818px; margin-top: 53px;">
 					<div class="placeholder" style="margin: -821px auto 0 auto; text-align: center; width: 1207px; height: 818px;">
-						<img src="<?php echo $path; ?>content/fb-friends-browser/overview-loading.jpg" style="width: 387px; height: 747px;">
-						<img src="<?php echo $path; ?>content/fb-friends-browser/overview-loading.jpg" style="width: 387px; height: 747px; margin-left: 18px; vertical-align: 140px;">
-						<img src="<?php echo $path; ?>content/fb-friends-browser/overview-loading.jpg" style="width: 387px; height: 747px; margin-left: 19px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 387px; height: 747px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 387px; height: 747px; margin-left: 18px; vertical-align: 140px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 387px; height: 747px; margin-left: 19px;">
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="slide" id="slide_1">
 			<div class="slide-contents bottom-padding" style="padding-top: 10px;">
-				<img data-delay-load-src="<?php echo $path; ?>content/fb-friends-browser/alt-friends-screen.jpg" style="width: 1114px; height: 711px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/alt-friends-screen.jpg" style="width: 1114px; height: 711px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Different ideas for how to show your top friends.</div>
 			</div>
 		</div>
 		<div class="slide" id="slide_2">
 			<div class="slide-contents bottom-padding" style="padding-top: 10px;">
 				<video width="293" height="522" loop playsinline style="position: absolute; margin-top: 89px; margin-left: 796px;">
-				  <source data-delay-load-src="<?php echo $path; ?>content/fb-friends-browser/composer-experiments-video.mp4" type="video/mp4">
+				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/composer-experiments-video.mp4" type="video/mp4">
 				</video>
-				<img data-delay-load-src="<?php echo $path; ?>content/fb-friends-browser/composer-experiments.jpg" style="width: 1114px; height: 711px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/composer-experiments.jpg" style="width: 1114px; height: 711px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Experiments in how to make it easy and fun to share visual content.</div>
 			</div>
 		</div>
 		<div class="slide" id="slide_3">
 			<div class="slide-contents bottom-padding" style="padding-top: 10px;">
 				<video width="293" height="522" loop playsinline style="position: absolute; margin-top: 89px; margin-left: 24px;">
-				  <source data-delay-load-src="<?php echo $path; ?>content/fb-friends-browser/friend-view-interactions.mp4" type="video/mp4">
+				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/friend-view-interactions.mp4" type="video/mp4">
 				</video>
 				<img data-delay-load-src="<?php echo $path; ?>content/common/blank-iphone-white.png" style="width: 341px; height: 711px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Interactions for viewing content from friends.</div>

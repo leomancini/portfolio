@@ -205,7 +205,7 @@ function toggle_expanded_content(section_id_function_variable) {
 	}, 1500);
 }
 
-$(document).ready(function() { 
+$(document).ready(function() {
 	if(window.this_page == "index") {
 		$("button#info-button").bind("click", toggle_expanded_content);
 
