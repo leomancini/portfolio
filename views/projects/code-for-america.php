@@ -77,14 +77,13 @@
 		<div class="slide selected" id="slide_0">
 			<div class="slide-contents">
 				<div class="image-with-loading-placeholder">
-					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg" style="width: 1903px; height: 725px; position: absolute; left: 50%; margin-left: -951px;">
-					<div class="placeholder" style="width: 2267px; height: 725px; left: 50%; margin-left: -1133px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 44px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 44px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 44px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 44px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 44px;">
+					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg" style="width: 1903px; height: 724px; position: absolute; left: 50%; margin-left: -951px;">
+					<div class="placeholder" style="width: 1906px; height: 724px; left: 50%; margin-left: -953px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 724px">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
 					</div>
 				</div>
 				<div style="width: 1116px; margin: 0 auto; display: block; padding-top: 13px;"><div class="caption" style="float: left; width: 338px;">Receive financial aid as a working caregiver.</div><div class="caption" style="width: 440px;">Find the best job training programs.</div><div class="caption" style="float: right; width: 338px;">Get compensated for currently unpaid work.</div></div>
