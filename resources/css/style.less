@@ -767,7 +767,13 @@ html, body {
 					color: rgba(0, 0, 0, 0.4);
 					
 					a {
-						color: rgba(0, 0, 0, 0.6);
+						color: rgba(0, 0, 0, 0.4);
+						transition: color 0.2s;
+						text-decoration: underline;
+					
+						&:hover {
+							color: rgba(0, 0, 0, 0.6);
+						}
 					}
 				}
 				
