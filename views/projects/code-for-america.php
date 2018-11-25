@@ -4,7 +4,7 @@
 <div id="<?php echo $project; ?>-content" class="section light white monochrome">
 	<div class="header">
 		<h1>Code for America</h1>
-		<h2>Products that enable people to<br>find and maintain family-sustaining jobs</h2>
+		<h2>Products that enable people to<br>find and maintain high-quality jobs</h2>
 	</div>
 
 	<button id="info-button" class="expand">
@@ -17,14 +17,15 @@
 			<div class="text">
 			<div class="text-block">
 				<span class="title">Problem</span>
-				<p>PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER</p><p>PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER</p></div><div class="text-block">
+				<p>America’s public workforce system is a set of government services designed to help people find and keep high-quality jobs, including job search assistance, referrals to training programs, and connections to employers.</p><p>The delivery of these services is often shaped by policies that were written without a good understanding of the people using these services. Job seekers are asked to navigate complicated systems, use unintuitive interfaces, and struggle with bureaucratic procedures.</p></div><div class="text-block">
 				<span class="title">Solution</span>
-				<p>PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER</p><p>PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER</p></div><div class="text-block">
+				<p>Working with policy and product managers, we conducted research to identify systemic issues in the workforce system in several states. We interviewed dozens of case managers and job seekers to understand the problems they’re facing.</p><p>We prototyped and tested various technology products to help people find and keep high-quality jobs. We used these experiments to inspire government partners to use technology to improve delivery of workforce services. 
+</p></div><div class="text-block">
 				<span class="title">Role</span>
-				<p>PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER</p><p>PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER PLACEHOLDER</p></div>
+				<p>Collaborating with a small cross-functional team, I led research, design, prototyping, and experimentation.</p><p>I designed high-fidelity screens, mocked up interactive demos, and <a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">built out functional prototypes and websites</a>.</p><p>We conducted user research sessions and analyzed usage metrics to test our ideas. We gathered feedback from government leaders and non-profits to refine and improve our products.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">Open Source Code</a><a target="_blank" href="https://www.google.org/our-work/economic-opportunity/code-for-america/">Grant from Google.org</a>
+				<a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">Prototype Code</a><a target="_blank" href="https://www.google.org/our-work/economic-opportunity/code-for-america/">Grant from Google.org</a><a target="_blank" href="https://www.doleta.gov/business/pws.cfm">Overview of Public Workforce System</a>
 			</div>
 		</div>
 
@@ -92,12 +93,18 @@
 		
 		<div class="slide" id="slide_1">
 			<div class="slide-contents">
+				<video width="292" height="506" loop playsinline style="position: absolute; margin-top: 107px; margin-left: 416px;">
+				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/find-training-feed-video.mp4" type="video/mp4">
+				</video>
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/find-training.jpg" style="width: 1122px; height: 724px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Help job seekers <a href="https://github.com/codeforamerica/etpl-search" target="_blank">find and compare training programs</a> that are eligible for tuition assistance from the government.</div>
 			</div>
 		</div>
 		<div class="slide" id="slide_2">
 			<div class="slide-contents">
+				<video width="292" height="506" loop playsinline style="position: absolute; margin-top: 107px; margin-left: 416px;">
+				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/fair-chance-flow.mp4" type="video/mp4">
+				</video>
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/fair-chance.jpg" style="width: 1122px; height: 724px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Enable people to successfully appeal a decision by an employer to rescind job offer based on conviction history.</div>
 			</div>

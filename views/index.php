@@ -12,6 +12,10 @@
 			"title" => "Friends"
 		),
 		Array(
+			"id" => "code-for-america",
+			"title" => "Code for America"
+		),
+		Array(
 			"id" => "fb-riff",
 			"title" => "Riff"
 		),
