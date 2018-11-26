@@ -27,26 +27,24 @@
 	<div id="position">
 		<h3><a href="http://codeforamerica.org" target="_blank">Code for America</a></h3>
 		<h4>Lead Product Designer &nbsp;<span class="inline-description">April 2018 &ndash; present</span></h4>
-		<span class="description">
-			Developing products and strategies to improve delivery of America's public workforce services 
+		<div class="description">
+			<p>Developing products and strategies to improve delivery of America's public workforce services</p>
 			<ul>
 				<li>Working with policy and product managers to identify systemic issues across the country</li>
 				<li>Conducting research to understand problems faced by job seekers with significant barriers to employment, including people with criminal records and individuals relying on food stamps</li>
 				<li>Designing and prototyping technology to alleviate key pain points, including <a href="https://github.com/codeforamerica/etpl-search" target="_blank">finding high-quality training problems eligible for tuition assistance</a>, <a href="https://github.com/codeforamerica/qr-portable-profile" target="_blank">enabling job seekers to carry their data between service providers</a>, and <a href="https://github.com/codeforamerica/job-commute-search" target="_blank">searching for a job with an easy and low-cost commute</a></li>
-			</span>
+			</div>
 		</div>
 		<div id="position">
 			<h3><a href="http://opendream.us" target="_blank">Open Dream</a></h3>
 			<h4>Co-Founder &nbsp;<span class="inline-description">September 2017 &ndash; November 2017</span></h4>
-			<span class="description">
-				Prototyped and tested ways to increase access to economic opportunities in America, including a service to reduce child care costs by setting up a babysitting co-op, a model for running a business out of your home or vehicle, and exploring ways to enable remote work opportunities for people with physical barriers to employment
-			</span>
+			<div class="description">Prototyped and tested ways to increase access to economic opportunities in America, including a service to reduce child care costs by setting up a babysitting co-op, a model for running a business out of your home or vehicle, and exploring ways to enable remote work opportunities for people with physical barriers to employment</div>
 		</div>
 		<div id="position">
 			<h3><a href="http://facebook.com" target="_blank">Facebook</a></h3>
 			<h4>Product Designer &nbsp;<span class="inline-description">October 2012 &ndash; September 2017</span></h4>
-			<span class="description">
-				Collaborated with product teams to identify high-impact problems and develop solutions in sharing, audience, and public content
+			<div class="description">
+				<p>Collaborated with product teams to identify high-impact problems and develop solutions in sharing, audience, and public content</p>
 				<ul>
 					<li>Worked with product managers and researchers to develop strategy</li>
 					<li>Designed and prototyped user interfaces and interaction flows</li>
@@ -85,12 +83,12 @@
 					<br>
 					<span class="project-name"><a href="//leo.gd/?s=resume#fb-pages" target="_blank">Pages Redesign</a></span> &ndash; learn about brands and businesses
 				</span>
-			</span>
+			</div>
 		</div>
 		<div id="position">
 			<h3><a href="http://facebook.com" target="_blank">Facebook</a></h3>
 			<h4>Product Design Intern &nbsp;<span class="inline-description">Summer 2012</span></h4>
-			<span class="description">
+			<div class="description">
 				<span class="projects">
 					<h5>Projects</h5>
 					<span class="project-name"><a href="https://venturebeat.com/2012/10/11/facebook-intern-mobile-ads/" target="_blank">Boosted Posts</a></span> &ndash; connect with your audience
@@ -99,35 +97,27 @@
 					<br>
 					<span class="project-name">Topic Pages</span> &ndash; learn about subjects and interests
 				</span>
-			</span>
+			</div>
 		</div>
 		<div id="position">
 			<h3><a href="http://oak.is" target="_blank">Oak Studios</a></h3>
 			<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Spring 2012</span></h4>
-			<span class="description">
-				Designed and built parts of <span href="https://www.dropmark.com/" target="_blank">Dropmark</span>
-			</span>
+			<div class="description">Designed and built parts of <span href="https://www.dropmark.com/" target="_blank">Dropmark</span></div>
 		</div>
 		<div id="position">
 			<h3><a href="http://schools.nyc.gov">New York City Department of Education</a></h3>
 			<h4>Graphic Designer &nbsp;<span class="inline-description">July 2011 &ndash; May 2012</span></h4>
-			<span class="description">
-				Created <a href="//leo.gd/portfolio2012/portfolio/tag/NYC-Department-of-Education" target="_blank">advertisements, posters, and signage</a> for print and web
-			</span>
+			<div class="description">Created <a href="//leo.gd/portfolio2012/portfolio/tag/NYC-Department-of-Education" target="_blank">advertisements, posters, and signage</a> for print and web</div>
 		</div>
 		<div id="position">
 			<h3><a href="http://sva.edu" target="_blank">School of Visual Arts</a></h3>
 			<h4>Engineer and Application Developer &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
-			<span class="description">
-				Built <a href="//leo.gd/portfolio2012/portfolio/sva-2012-portfolio-app" target="_blank">senior-class portfolio iOS app</a> and <span href="http://gdadapps.sva.edu/attendance/login" target="_blank">attendance system</span> for lectures
-			</span>
+			<div class="description">Built <a href="//leo.gd/portfolio2012/portfolio/sva-2012-portfolio-app" target="_blank">senior-class portfolio iOS app</a> and <span href="http://gdadapps.sva.edu/attendance/login" target="_blank">attendance system</span> for lectures</div>
 		</div>
 		<div id="position">
 			<h3><a href="https://www.crunchbase.com/organization/bestvendor" target="_blank">BestVendor</a></h3>
 			<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Summer 2011</span></h4>
-			<span class="description">
-				Designed and built <a href="//leo.gd/portfolio2012/portfolio/bestvendor" target="_blank">new product features</a>
-			</span>
+			<div class="description">Designed and built <a href="//leo.gd/portfolio2012/portfolio/bestvendor" target="_blank">new product features</a></div>
 		</div>
 		<h6>Education</h6>
 		<div id="position">
