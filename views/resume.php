@@ -31,7 +31,7 @@
 			Developing products and strategies to improve delivery of America's public workforce services 
 			<ul>
 				<li>Working with policy and product managers to identify systemic issues across the country</li>
-				<li>Conducting research to understand problems faced by job seekers with significant barriers to employment, including folks with criminal records and people relying on food stamps</li>
+				<li>Conducting research to understand problems faced by job seekers with significant barriers to employment, including people with criminal records and individuals relying on food stamps</li>
 				<li>Designing and prototyping technology to alleviate key pain points, including <a href="https://github.com/codeforamerica/etpl-search" target="_blank">finding high-quality training problems eligible for tuition assistance</a>, <a href="https://github.com/codeforamerica/qr-portable-profile" target="_blank">enabling job seekers to carry their data between service providers</a>, and <a href="https://github.com/codeforamerica/job-commute-search" target="_blank">searching for a job with an easy and low-cost commute</a></li>
 			</span>
 		</div>
