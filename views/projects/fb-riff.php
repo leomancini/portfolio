@@ -26,7 +26,7 @@
 				<p>After brainstorming with a product manager and engineer to come up with the concept for the app, we worked with a small team in London and Tel Aviv to build the app on iOS and Android.</p><p>I designed and prototyped the user interface, produced marketing and App Store materials and built the website.</p><p>We launched the app in April 2015.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" href="https://newsroom.fb.com/news/2015/04/riff-make-videos-with-friends/">Announcement</a><a target="_blank" href="http://money.cnn.com/2015/04/01/technology/facebook-riff-collaborative-video-app/index.html">Press Coverage</a><a target="_blank" href="https://www.facebook.com/photo.php?fbid=10153206803718735&set=a.273900913734.173436.589048734&type=3&theater">Launch Post</a><a target="_blank" href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/9772813">Patent</a>
+				<a target="_blank" href="https://newsroom.fb.com/news/2015/04/riff-make-videos-with-friends/">Announcement</a><a target="_blank" href="http://money.cnn.com/2015/04/01/technology/facebook-riff-collaborative-video-app/index.html">Press Coverage</a><a target="_blank" href="https://www.facebook.com/photo.php?fbid=10153206803718735&set=a.273900913734.173436.589048734&type=3&theater">Launch Post</a><a target="_blank" href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/9772813">Patent</a><a target="_blank" href="https://noshado.ws/archive/riff/">Marketing Site</a>
 			</div>
 		</div>
 	
