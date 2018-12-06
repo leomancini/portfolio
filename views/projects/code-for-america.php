@@ -22,7 +22,7 @@
 				<p>We conducted research to identify systemic issues in the workforce system. We interviewed dozens of case managers and job seekers.</p><p>We prototyped and tested various technology products to help people find and keep high-quality jobs. We used these experiments to inspire government partners to use technology to improve delivery of workforce services. 
 </p></div><div class="text-block">
 				<span class="title">Role</span>
-				<p>Collaborating with a small cross-functional team, I led research, design, prototyping, and experimentation.</p><p>I designed high-fidelity screens, mocked up interactive demos, and <a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">built out functional prototypes and websites</a>.</p><p>We gathered feedback from government leaders and non-profits to refine and improve our products.</p></div>
+				<p>Collaborating with a small cross-functional team, I led research, design, prototyping, and experimentation.</p><p>I designed high-fidelity screens, mocked up interactive demos, and <a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">built functional prototypes and websites</a>.</p><p>We gathered feedback from government leaders and non-profits to refine and improve our products.</p></div>
 			</div>
 			<div class="links">
 				<a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">Prototype Code</a><a target="_blank" href="https://www.google.org/our-work/economic-opportunity/code-for-america/">Grant from Google.org</a><a target="_blank" href="https://www.doleta.gov/business/pws.cfm">Overview of Public Workforce System</a>
