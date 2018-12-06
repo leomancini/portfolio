@@ -4,7 +4,7 @@
 <div id="<?php echo $project; ?>-content" class="section light white monochrome">
 	<div class="header">
 		<h1>Code for America</h1>
-		<h2>Find and maintain high-quality jobs and training.</h2>
+		<h2>Find a job that pays enough to live on.</h2>
 	</div>
 
 	<button id="info-button" class="expand">
