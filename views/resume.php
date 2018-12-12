@@ -28,7 +28,7 @@
 		<h3><a href="https://indeed.com" target="_blank">Indeed</a></h3>
 		<h4>Design Technologist &nbsp;<span class="inline-description">December 2018 &ndash; present</span></h4>
 		<div class="description">
-			<p>Designing and prototyping tools to help people get jobs.</p>
+			<p>Designing and prototyping tools to help people get jobs</p>
 		</div>
 	</div>
 	<div id="position">
