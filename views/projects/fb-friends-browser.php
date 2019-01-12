@@ -25,7 +25,7 @@
 				<p>We had been asked by product leadership to think about this problem and I worked with a product manager and two engineers in London to come up with a solution.</p><p>We eventually grew to a full product team of engineers, researchers, content strategists, data analysts and marketers.</p><p>As the only designer, I helped lead product strategy, conducted research and usability sessions, designed the user interface, worked with engineers, and presented to leadership. We explored dozens of variants and directions from mid-2015 to the summer of 2016.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20180253193.PGNR.">Patent Pending</a>
+				<a target="_blank" href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/D834611">Patent</a><a target="_blank" href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20180253193.PGNR.">Patent Pending</a>
 			</div>
 		</div>
 	
