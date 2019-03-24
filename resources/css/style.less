@@ -42,6 +42,123 @@ a {
 	transition: all 0.2s;
 }
 
+body.dark-mode {
+	background: #3A3A3B;
+	
+	#container {
+		
+		header {
+			.header-content {
+				background: #000000;
+				
+				h2 a {
+					color: rgba(255, 255, 255, 0.7);
+					
+					&:hover {
+						color: rgba(255, 255, 255, 1);
+					}
+				}
+				
+				.links {
+					a {
+						color: rgba(255, 255, 255, 0.4);
+						
+						&:hover {
+							color: rgba(255, 255, 255, 1);
+						}
+						
+						&.selected {
+							color: rgba(255, 255, 255, 1);
+						}
+					}
+				}
+			}
+		}
+		
+		#navigation {
+			.links {
+				background: #000000;
+				
+				a {
+					color: rgba(255, 255, 255, 0.4);
+					
+					&:hover {
+						color: rgba(255, 255, 255, 1);
+					}
+					
+					&.selected {
+						color: rgba(255, 255, 255, 1);
+					}
+				}
+			}
+		}
+		
+		div.section {
+			&.light {
+				background: #121212;
+				
+				h1 {
+					color: rgba(255, 255, 255, 1);
+				}
+				
+				h2 {
+					color: rgba(255, 255, 255, 0.4);
+				}
+				
+				.expanded-content {
+					.description {
+						background: rgba(255, 255, 255, 0.08);
+
+						.text .text-block {
+							.title {
+								color: rgba(255, 255, 255, 1);
+							}
+						
+							p {
+								color: rgba(255, 255, 255, 0.6);
+							}
+						}
+					
+						.links {
+							border-top: 0.5px solid rgba(255, 255, 255, 0.1);
+						
+							a {
+								color: rgba(255, 255, 255, 0.8);
+					
+								&:hover {
+									color: rgba(255, 255, 255, 1);
+								}
+					
+								&.selected {
+									color: rgba(255, 255, 255, 1);
+								}
+							}
+						}
+					}
+					
+					.slide-thumbnail-set .slide-thumbnail-wrapper {
+					    label {
+	   						color: rgba(255, 255, 255, 0.4);
+	   					}
+						
+						&.selected label {
+	   						color: rgba(255, 255, 255, 1);
+						}				
+					}
+				}
+			}
+		}
+	}
+	
+	.grey-divider {
+	    background-image: linear-gradient(to bottom, #3A3A3B 0%, #3A3A3B 51%, #000000 51%);
+	
+		&.bottom-white {
+		    background-image: linear-gradient(to top, #3A3A3B 0%, #3A3A3B 51%, #000000 51%);
+		}
+	}
+}
+
 html, body {
 	margin: 0;
 	padding: 0;

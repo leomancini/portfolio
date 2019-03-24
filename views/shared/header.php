@@ -46,6 +46,7 @@
 		}
 	}
 	
+	if(isset($_GET['dark-mode'])) { $dark_mode = 1; } 
 ?>
 
 <!DOCTYPE HTML>
@@ -80,5 +81,5 @@
 		<script src="<?php echo $path; ?>resources/js/main.js"></script>
 		<meta name="viewport" content="width=1300">
 	</head>
-	<body>
+	<?php if($dark_mode) { ?><body class="dark-mode"><?php } else { ?><body><?php } ?>
 		<div id="container"<?php if($internal_page_switch == true) { echo " class='internal-page-switch'"; } ?>>
