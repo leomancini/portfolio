@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	
+
 	if($_SERVER['SERVER_NAME'] == "localhost" || $_SERVER['SERVER_NAME'] == "leo.local") {
 		$server = "local";
 		$path = "/portfolio2018/git/";
@@ -8,9 +8,9 @@
 		$server = "remote";
 		$path = "/portfolio2018/";
 	}
-	
+
 	$browsers_with_stylesheet_variation = Array("chrome", "safari");
-	
+
 	if(preg_match("/chrome/i", $_SERVER['HTTP_USER_AGENT'])) {
 		$browser = "chrome";
 	} elseif(preg_match("/safari/i", $_SERVER['HTTP_USER_AGENT'])) {
@@ -20,13 +20,13 @@
 	} else {
 		$browser = "unknown";
 	}
-	
+
 	// if source is explicitly set as internal but opened from a different tab
 	if($_GET["s"] == "resume" || $_GET["s"] == "about") {
 		// FADE IN
 		$internal_page_switch = false;
 	} else {
-		// if page is being reloaded	
+		// if page is being reloaded
 		if($_SERVER["HTTP_CACHE_CONTROL"] === "max-age=0") {
 			if($page["id"] == "index") {
 				// FADE IN on index is being reloaded
@@ -39,14 +39,14 @@
 		} elseif((preg_match("/leo.gd/", $_SERVER["HTTP_REFERER"]) || preg_match("/localhost/", $_SERVER["HTTP_REFERER"]))) {
 			// DON'T FADE IN
 			$internal_page_switch = true;
-		// otherwise, page is not being reloaded and is being loaded from external page	
+		// otherwise, page is not being reloaded and is being loaded from external page
 		} else {
 			// FADE IN
 			$internal_page_switch = false;
 		}
 	}
-	
-	if(isset($_GET['dark-mode'])) { $dark_mode = 1; } 
+
+	if(isset($_GET['dark-mode'])) { $dark_mode = 1; }
 ?>
 
 <!DOCTYPE HTML>
@@ -79,7 +79,7 @@
 		<script type="text/javascript"> window.this_page = "<?php echo $page["id"]; ?>"; </script>
 		<script src="<?php echo $path; ?>resources/js/lib/jquery.js"></script>
 		<script src="<?php echo $path; ?>resources/js/main.js"></script>
-		<meta name="viewport" content="width=1300">
+		<meta name="viewport" content="device-width">
 	</head>
 	<?php if($dark_mode) { ?><body class="dark-mode"><?php } else { ?><body><?php } ?>
 		<div id="container"<?php if($internal_page_switch == true) { echo " class='internal-page-switch'"; } ?>>
