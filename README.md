@@ -1,4 +1,4 @@
-<img src="https://leo.gd/portfolio2018/resources/images/og-share-preview.jpg">
+<img src="http://leo.gd/portfolio2018/resources/images/og-share-preview.jpg">
 
 #### Facebook
 - [Stories and Direct](https://leo.gd/#fb-stories-and-direct)
