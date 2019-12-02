@@ -28,7 +28,13 @@
 		<h3><a href="https://indeed.com" target="_blank">Indeed</a></h3>
 		<h4>Product Design Technologist &nbsp;<span class="inline-description">December 2018 &ndash; present</span></h4>
 		<div class="description">
-			<p>Designing and prototyping tools to help people get jobs</p>
+			<p>Focused on designing for people who are experiencing barriers to employment</p>
+			<ul>
+				<li>Launched personalized feed of jobs on the homepage and built algorithms to highlight new and relevant jobs</li>
+				<li>Helped craft a vision for the native Indeed app</li>
+				<li>Designed experimental apps to connect people with jobs tailored to their needs, including short commute, living wage, or hiring immediately</li>
+				<li>Partnered with Goodwill to build specialized job search features for their clients</li>
+			</ul>
 		</div>
 	</div>
 	<div id="position">
