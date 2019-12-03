@@ -31,9 +31,9 @@
 			<p>Focused on designing for people who are experiencing barriers to employment</p>
 			<ul>
 				<li>Launched personalized feed of jobs on the homepage and built algorithms to highlight new and relevant jobs</li>
-				<li>Helped craft a vision for the native Indeed app</li>
+				<li>Crafted long-term design vision for the Indeed native app</li>
 				<li>Designed experimental apps to connect people with jobs tailored to their needs, including short commute, living wage, or hiring immediately</li>
-				<li>Partnered with Goodwill to build specialized job search features for their clients</li>
+				<li>Partnered with Goodwill to build specialized job-search features for the nonprofit's community-based employment services</li>
 			</ul>
 		</div>
 	</div>
@@ -133,14 +133,16 @@
 		<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Summer 2011</span></h4>
 		<div class="description print-hidden">Designed and built <a href="//leo.gd/portfolio2012/portfolio/bestvendor" target="_blank">new product features</a></div>
 	</div>
-	<h6>Education</h6>
-	<div id="position">
-		<h3><a href="http://sva.edu" target="_blank">School of Visual Arts</a></h3>
-		<h4>Fine Arts and Humanities Honors Program &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
-	</div>
-	<div id="position">
-		<h3><a href="http://qc.cuny.edu" target="_blank">Queens College, City University of New York</a></h3>
-		<h4 style="width: 620px;">Townsend Harris High School senior-year course work &nbsp;<span class="inline-description">August 2010 &ndash; May 2011</span></h4>
+	<div class="print-hidden">
+		<h6>Education</h6>
+		<div id="position">
+			<h3><a href="http://sva.edu" target="_blank">School of Visual Arts</a></h3>
+			<h4>Fine Arts and Humanities Honors Program &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
+		</div>
+		<div id="position">
+			<h3><a href="http://qc.cuny.edu" target="_blank">Queens College, City University of New York</a></h3>
+			<h4 style="width: 620px;">Townsend Harris High School senior-year course work &nbsp;<span class="inline-description">August 2010 &ndash; May 2011</span></h4>
+		</div>
 	</div>
 	<br>
 </div>
