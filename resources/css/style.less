@@ -1199,12 +1199,12 @@ html, body {
 		
 		#resume {
 			position: relative;
-			width: 530px;
-			margin-left: 50%;
-			left: -385px;
-			margin-bottom: 50px;
-			border-radius: 10px;
-			padding: 40px 120px 80px 120px;
+		    width: 600px;
+		    margin-left: 50%;
+		    left: -420px;
+		    margin-bottom: 50px;
+		    border-radius: 10px;
+		    padding: 40px 120px 80px 120px;
 			
 			#print-header {
 				display: none;
@@ -1486,14 +1486,14 @@ html, body {
 
 @media print {
     html#resume, body#resume {
-       margin: 0!important; 
-       padding: 0!important;
-	   background: #FFFFFF!important;
-	   
-	   #container-grey-background {
-		   display: none;
-	   }
-	   
+		margin: 0!important; 
+		padding: 0!important;
+		background: #FFFFFF!important;
+
+		#container-grey-background {
+			display: none;
+		}
+
 		*,
 		*:before,
 		*:after,
@@ -1534,6 +1534,10 @@ html, body {
 			    width: 560px!important;
 			    left: -400px!important;
 				padding-bottom: 0!important;
+				
+				.print-hidden {
+					display: none;
+				}
 			
 	   			#print-header {
 	   				display: inline-block!important;

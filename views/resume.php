@@ -116,14 +116,14 @@
 	<div id="position">
 		<h3><a href="http://oak.is" target="_blank">Oak Studios</a></h3>
 		<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Spring 2012</span></h4>
-		<div class="description">Designed and built parts of <span href="https://www.dropmark.com/" target="_blank">Dropmark</span></div>
+		<div class="description print-hidden">Designed and built parts of <span href="https://www.dropmark.com/" target="_blank">Dropmark</span></div>
 	</div>
 	<div id="position">
 		<h3><a href="http://schools.nyc.gov">New York City Department of Education</a></h3>
 		<h4>Graphic Designer &nbsp;<span class="inline-description">July 2011 &ndash; May 2012</span></h4>
-		<div class="description">Created <a href="//leo.gd/portfolio2012/portfolio/tag/NYC-Department-of-Education" target="_blank">advertisements, posters, and signage</a> for print and web</div>
+		<div class="description print-hidden">Created <a href="//leo.gd/portfolio2012/portfolio/tag/NYC-Department-of-Education" target="_blank">advertisements, posters, and signage</a> for print and web</div>
 	</div>
-	<div id="position">
+	<div id="position" class="print-hidden">
 		<h3><a href="http://sva.edu" target="_blank">School of Visual Arts</a></h3>
 		<h4>Engineer and Application Developer &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
 		<div class="description">Built <a href="//leo.gd/portfolio2012/portfolio/sva-2012-portfolio-app" target="_blank">senior-class portfolio iOS app</a> and <span href="http://gdadapps.sva.edu/attendance/login" target="_blank">attendance system</span> for lectures</div>
@@ -131,7 +131,7 @@
 	<div id="position">
 		<h3><a href="https://www.crunchbase.com/organization/bestvendor" target="_blank">BestVendor</a></h3>
 		<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Summer 2011</span></h4>
-		<div class="description">Designed and built <a href="//leo.gd/portfolio2012/portfolio/bestvendor" target="_blank">new product features</a></div>
+		<div class="description print-hidden">Designed and built <a href="//leo.gd/portfolio2012/portfolio/bestvendor" target="_blank">new product features</a></div>
 	</div>
 	<h6>Education</h6>
 	<div id="position">
