@@ -28,7 +28,13 @@
 		<h3><a href="https://indeed.com" target="_blank">Indeed</a></h3>
 		<h4>Product Design Technologist &nbsp;<span class="inline-description">December 2018 &ndash; present</span></h4>
 		<div class="description">
-			<p>Designing and prototyping tools to help people get jobs</p>
+			<p>Focused on designing for people who are experiencing barriers to employment</p>
+			<ul>
+				<li>Launched personalized feed of jobs on the homepage and built algorithms to highlight new and relevant jobs</li>
+				<li>Crafted long-term design vision for the Indeed native app</li>
+				<li>Designed experimental apps to connect people with jobs tailored to their needs, including short commute, living wage, or hiring immediately</li>
+				<li>Partnered with Goodwill to build specialized job-search features for the nonprofit's employment services</li>
+			</ul>
 		</div>
 	</div>
 	<div id="position">
@@ -110,14 +116,14 @@
 	<div id="position">
 		<h3><a href="http://oak.is" target="_blank">Oak Studios</a></h3>
 		<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Spring 2012</span></h4>
-		<div class="description">Designed and built parts of <span href="https://www.dropmark.com/" target="_blank">Dropmark</span></div>
+		<div class="description print-hidden">Designed and built parts of <span href="https://www.dropmark.com/" target="_blank">Dropmark</span></div>
 	</div>
 	<div id="position">
 		<h3><a href="http://schools.nyc.gov">New York City Department of Education</a></h3>
 		<h4>Graphic Designer &nbsp;<span class="inline-description">July 2011 &ndash; May 2012</span></h4>
-		<div class="description">Created <a href="//leo.gd/portfolio2012/portfolio/tag/NYC-Department-of-Education" target="_blank">advertisements, posters, and signage</a> for print and web</div>
+		<div class="description print-hidden">Created <a href="//leo.gd/portfolio2012/portfolio/tag/NYC-Department-of-Education" target="_blank">advertisements, posters, and signage</a> for print and web</div>
 	</div>
-	<div id="position">
+	<div id="position" class="print-hidden">
 		<h3><a href="http://sva.edu" target="_blank">School of Visual Arts</a></h3>
 		<h4>Engineer and Application Developer &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
 		<div class="description">Built <a href="//leo.gd/portfolio2012/portfolio/sva-2012-portfolio-app" target="_blank">senior-class portfolio iOS app</a> and <span href="http://gdadapps.sva.edu/attendance/login" target="_blank">attendance system</span> for lectures</div>
@@ -125,18 +131,17 @@
 	<div id="position">
 		<h3><a href="https://www.crunchbase.com/organization/bestvendor" target="_blank">BestVendor</a></h3>
 		<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Summer 2011</span></h4>
-		<div class="description">Designed and built <a href="//leo.gd/portfolio2012/portfolio/bestvendor" target="_blank">new product features</a></div>
+		<div class="description print-hidden">Designed and built <a href="//leo.gd/portfolio2012/portfolio/bestvendor" target="_blank">new product features</a></div>
 	</div>
 	<h6>Education</h6>
 	<div id="position">
 		<h3><a href="http://sva.edu" target="_blank">School of Visual Arts</a></h3>
 		<h4>Fine Arts and Humanities Honors Program &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
 	</div>
-	<div id="position">
+	<div id="position" class="print-hidden">
 		<h3><a href="http://qc.cuny.edu" target="_blank">Queens College, City University of New York</a></h3>
 		<h4 style="width: 620px;">Townsend Harris High School senior-year course work &nbsp;<span class="inline-description">August 2010 &ndash; May 2011</span></h4>
 	</div>
-	<br>
 </div>
 
 <div id="container-grey-background">
