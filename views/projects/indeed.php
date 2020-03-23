@@ -107,7 +107,7 @@
 		<div class="slide" id="slide_4">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/goodwill.jpg" style="width: 1322px; height: 835px;">
-				<div class="caption" style="display: block; margin-top: 40px;">Learn how Indeed can help with your job search.</div>
+				<div class="caption" style="display: block; margin-top: 40px;">Learn how Indeed can help with your job search at a Goodwill Career Center.</div>
 			</div>
 		</div>
 	</div>
