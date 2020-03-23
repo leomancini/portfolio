@@ -2,6 +2,7 @@
 <div id="<?php echo $project; ?>" class="section-pointer"></div>
 
 <div id="<?php echo $project; ?>-content" class="section light white monochrome">
+	<div class="grey-divider"></div>
 	<div class="header">
 		<h1>Code for America</h1>
 		<h2>Find a job that pays enough to live on.</h2>
@@ -25,7 +26,7 @@
 				<p>Collaborating with a small cross-functional team, I led research, design, prototyping, and experimentation.</p><p>I designed high-fidelity screens, mocked up interactive demos, and <a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">built functional prototypes and websites</a>.</p><p>We gathered feedback from government leaders and non-profits to refine and improve our products.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">Prototype Code</a><a target="_blank" href="https://www.google.org/our-work/economic-opportunity/code-for-america/">Grant from Google.org</a><a target="_blank" href="https://www.doleta.gov/business/pws.cfm">Overview of Public Workforce System</a>
+				<a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">Prototype Code</a><a target="_blank" href="https://www.google.org/our-work/economic-opportunity/code-for-america/">Grant from Google.org</a><a target="_blank" href="https://www.doleta.gov/business/pws.cfm">Overview of Public Workforce System</a><a target="_blank" href="https://www.codeforamerica.org/news/following-the-user-need-beyond-traditional-boundaries">Lessons Learned</a>
 			</div>
 		</div>
 
