@@ -50,7 +50,7 @@
 		</div>
 	</div>
 	<div id="position">
-		<h3><a href="http://opendream.us" target="_blank">Open Dream</a></h3>
+		<h3>Open Dream</h3>
 		<h4>Co-Founder &nbsp;<span class="inline-description">September 2017 &ndash; November 2017</span></h4>
 		<div class="description">Prototyped and tested ways to increase access to economic opportunities in America, including a service to help parents create babysitting co-ops to reduce child care costs, models for running a business from your home or vehicle, and mechanisms to enable remote work opportunities for people with physical barriers to employment</div>
 	</div>
