@@ -25,7 +25,12 @@
 		<h2>Portfolio: <a href="http://leo.gd">www.leo.gd</a> &nbsp;&nbsp;&nbsp; Email: <a href="mailto:mancini@leo.gd">mancini@leo.gd</a></h2>
 	</div>
 	<div id="position">
-		<h3><a href="https://indeed.com" target="_blank">Indeed</a></h3>
+		<h3><a href="https://squareup.com/us/en/about" target="_blank">Square</a></h3>
+		<h4>Product Designer &nbsp;<span class="inline-description">April 2020 &ndash; present</span></h4>
+		<div class="description"></div>
+	</div>
+	<div id="position">
+		<h3><a href="https://www.indeed.com/about" target="_blank">Indeed</a></h3>
 		<h4>Product Design Technologist &nbsp;<span class="inline-description">December 2018 &ndash; April 2020</span></h4>
 		<div class="description">
 			<p>Focused on designing for people who are experiencing barriers to employment</p>
@@ -38,7 +43,7 @@
 		</div>
 	</div>
 	<div id="position">
-		<h3><a href="https://codeforamerica.org" target="_blank">Code for America</a></h3>
+		<h3><a href="https://www.codeforamerica.org/about-us" target="_blank">Code for America</a></h3>
 		<h4>Lead Product Designer &nbsp;<span class="inline-description">April 2018 &ndash; December 2018</span></h4>
 		<div class="description">
 			<p>Developed products and strategies to improve delivery of America's public workforce services</p>
@@ -55,8 +60,8 @@
 		<div class="description">Prototyped and tested ways to increase access to economic opportunities in America, including a service to help parents create babysitting co-ops to reduce child care costs, models for running a business from your home or vehicle, and mechanisms to enable remote work opportunities for people with physical barriers to employment</div>
 	</div>
 	<div id="position">
-		<h3><a href="http://facebook.com" target="_blank">Facebook</a></h3>
-		<h4>Lead Product Designer &nbsp;<span class="inline-description">October 2012 &ndash; September 2017</span></h4>
+		<h3><a href="https://about.fb.com/" target="_blank">Facebook</a></h3>
+		<h4>Product Designer &nbsp;<span class="inline-description">October 2012 &ndash; September 2017</span></h4>
 		<div class="description">
 			<p>Collaborated with product teams to identify high-impact problems and develop solutions in sharing, audience, and public content</p>
 			<ul>
@@ -100,7 +105,7 @@
 		</div>
 	</div>
 	<div id="position">
-		<h3><a href="http://facebook.com" target="_blank">Facebook</a></h3>
+		<h3><a href="https://about.fb.com/" target="_blank">Facebook</a></h3>
 		<h4>Product Design Intern &nbsp;<span class="inline-description">Summer 2012</span></h4>
 		<div class="description">
 			<span class="projects">
@@ -114,12 +119,12 @@
 		</div>
 	</div>
 	<div id="position">
-		<h3><a href="http://oak.is" target="_blank">Oak Studios</a></h3>
+		<h3><a href="https://oak.is/about/" target="_blank">Oak Studios</a></h3>
 		<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Spring 2012</span></h4>
 		<div class="description print-hidden">Designed and built parts of <span href="https://www.dropmark.com/" target="_blank">Dropmark</span></div>
 	</div>
 	<div id="position">
-		<h3><a href="http://schools.nyc.gov">New York City Department of Education</a></h3>
+		<h3><a href="http://schools.nyc.gov" target="_blank">New York City Department of Education</a></h3>
 		<h4>Graphic Designer &nbsp;<span class="inline-description">July 2011 &ndash; May 2012</span></h4>
 		<div class="description print-hidden">Created <a href="//leo.gd/portfolio2012/portfolio/tag/NYC-Department-of-Education" target="_blank">advertisements, posters, and signage</a> for print and web</div>
 	</div>
