@@ -27,7 +27,7 @@
 	<div id="position">
 		<h3><a href="https://squareup.com/us/en/about" target="_blank">Square</a></h3>
 		<h4>Product Designer &nbsp;<span class="inline-description">April 2020 &ndash; present</span></h4>
-		<div class="description"></div>
+		<div class="description">Designing products to expand access to economic opportunity</div>
 	</div>
 	<div id="position">
 		<h3><a href="https://www.indeed.com/about" target="_blank">Indeed</a></h3>
