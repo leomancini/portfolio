@@ -44,7 +44,7 @@
 	</div>
 	<div id="position">
 		<h3><a href="https://www.codeforamerica.org/about-us" target="_blank">Code for America</a></h3>
-		<h4>Lead Product Designer &nbsp;<span class="inline-description">April 2018 &ndash; December 2018</span></h4>
+		<h4>Product Designer &nbsp;<span class="inline-description">April 2018 &ndash; December 2018</span></h4>
 		<div class="description">
 			<p>Developed products and strategies to improve delivery of America's public workforce services</p>
 			<ul>
