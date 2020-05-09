@@ -1,53 +1,70 @@
 <?php
 	$page = Array("title" => "Selected Work", "id" => "index");
 	require("shared/header.php");
+
+	$configFile = file_get_contents('../../config/portfolio2018.json');
+	$config = json_decode($configFile, true);
 	
-	$projects = Array(
-		Array(
-			"id" => "fb-stories-and-direct",
-			"title" => "Stories"
-		),
-		Array(
-			"id" => "fb-friends-browser",
-			"title" => "Friends"
-		),
-		// Array(
-		// 	"id" => "indeed",
-		// 	"title" => "Indeed"
-		// ),
-		Array(
-			"id" => "code-for-america",
-			"title" => "Code for America"
-		),
-		Array(
-			"id" => "fb-riff",
-			"title" => "Riff"
-		),
-		Array(
-			"id" => "fb-text-filters",
-			"title" => "Filters"
-		),
-		Array(
-			"id" => "fb-trending",
-			"title" => "Trending"
-		),
-		Array(
-			"id" => "place-lists",
-			"title" => "Lists"
-		),
-		Array(
-			"id" => "fb-news-feed-discovery",
-			"title" => "Feed Discovery"
-		),
-		Array(
-			"id" => "fb-pages",
-			"title" => "Pages"
-		),
-		Array(
-			"id" => "fb-threaded-comments",
-			"title" => "Threads"
-		)
-	);
+	if ($_GET['projectsOverride'] && $_GET['projectsOverridePassword'] && md5($_GET['projectsOverridePassword']) === $config['projectsOverridePasswordHash']) {
+		$projects = Array();
+		$projectsOverride = explode(',', $job = htmlentities($_GET['projectsOverride'], ENT_QUOTES));
+
+		foreach($projectsOverride as $projectIdTitlePair) {
+			$projectIdTitlePairArray = explode(':', $projectIdTitlePair);
+
+			array_push($projects, Array(
+				"id" => $projectIdTitlePairArray[0],
+				"title" => $projectIdTitlePairArray[1]
+			));
+		}
+	} else {
+		$projects = Array(
+			Array(
+				"id" => "fb-stories-and-direct",
+				"title" => "Stories"
+			),
+			Array(
+				"id" => "fb-friends-browser",
+				"title" => "Friends"
+			),
+			// Array(
+			// 	"id" => "indeed",
+			// 	"title" => "Indeed"
+			// ),
+			Array(
+				"id" => "code-for-america",
+				"title" => "Code for America"
+			),
+			Array(
+				"id" => "fb-riff",
+				"title" => "Riff"
+			),
+			Array(
+				"id" => "fb-text-filters",
+				"title" => "Filters"
+			),
+			Array(
+				"id" => "fb-trending",
+				"title" => "Trending"
+			),
+			Array(
+				"id" => "place-lists",
+				"title" => "Lists"
+			),
+			Array(
+				"id" => "fb-news-feed-discovery",
+				"title" => "Feed Discovery"
+			),
+			Array(
+				"id" => "fb-pages",
+				"title" => "Pages"
+			),
+			Array(
+				"id" => "fb-threaded-comments",
+				"title" => "Threads"
+			)
+		);	
+	}
 ?>
 
 <div id="preload">
