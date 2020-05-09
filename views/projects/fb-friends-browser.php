@@ -30,7 +30,7 @@
 		</div>
 	
 		<div class="slide-thumbnail-set">
-			<div class="slide-thumbnail-wrapper selected" id="<?php echo $project; ?>_slide_0" style="margin-right: 50px;">
+			<div class="slide-thumbnail-wrapper selected" data-slide-id="0" style="margin-right: 50px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/overview.jpg" style="width: 149px; height: 106px;">
@@ -38,7 +38,7 @@
 				</div>
 				<label>Overview</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_1" style="margin-right: 50px;">
+			<div class="slide-thumbnail-wrapper" data-slide-id="1" style="margin-right: 50px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/alt-friends-screen.jpg" style="width: 149px; height: 95px;">
@@ -46,7 +46,7 @@
 				</div>
 				<label>Alternate Friends Screen</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_2" style="margin-right: 40px;">
+			<div class="slide-thumbnail-wrapper" data-slide-id="2" style="margin-right: 40px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/composer-experiments.jpg" style="width: 149px; height: 95px;">
@@ -54,7 +54,7 @@
 				</div>
 				<label>Composer Experiments</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_3" style="margin-right: 10px; width: 110px;">
+			<div class="slide-thumbnail-wrapper" data-slide-id="3" style="margin-right: 10px; width: 110px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/friend-view-transitions.jpg" style="width: 46px; height: 95px;">
@@ -66,7 +66,7 @@
 	</div>
 
 	<div class="content" style="height: 870px;">
-		<div class="slide selected" id="<?php echo $project; ?>_slide_0">
+		<div class="slide selected" data-slide-id="0">
 			<div class="slide-contents">
 				<div class="caption arbitrary-position" style="margin-left: 13px; margin-top: 140px; width: 350px; text-align: right;">When a close friend shares an update,<br>this icon will let you know.</div>
 				<div class="caption arbitrary-position" style="margin-left: 419px; width: 350px; text-align: center;">You pick the friends<br>you want to see posts from.</div>
@@ -81,13 +81,13 @@
 				</div>
 			</div>
 		</div>
-		<div class="slide" id="<?php echo $project; ?>_slide_1">
+		<div class="slide" data-slide-id="1">
 			<div class="slide-contents bottom-padding" style="padding-top: 10px;">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/alt-friends-screen.jpg" style="width: 1114px; height: 711px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Different ideas for how to show your top friends.</div>
 			</div>
 		</div>
-		<div class="slide" id="<?php echo $project; ?>_slide_2">
+		<div class="slide" data-slide-id="2">
 			<div class="slide-contents bottom-padding" style="padding-top: 10px;">
 				<video width="293" height="522" loop playsinline style="position: absolute; margin-top: 89px; margin-left: 796px;">
 				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/composer-experiments-video.mp4" type="video/mp4">
@@ -96,7 +96,7 @@
 				<div class="caption" style="display: block; margin-top: 40px;">Experiments in how to make it easy and fun to share visual content.</div>
 			</div>
 		</div>
-		<div class="slide" id="<?php echo $project; ?>_slide_3">
+		<div class="slide" data-slide-id="3">
 			<div class="slide-contents bottom-padding" style="padding-top: 10px;">
 				<video width="293" height="522" loop playsinline style="position: absolute; margin-top: 89px; margin-left: 24px;">
 				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/friend-view-interactions.mp4" type="video/mp4">

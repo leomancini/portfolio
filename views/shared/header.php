@@ -79,7 +79,7 @@
 		<script type="text/javascript"> window.this_page = "<?php echo $page["id"]; ?>"; </script>
 		<script src="<?php echo $path; ?>resources/js/lib/jquery.js"></script>
 		<script src="<?php echo $path; ?>resources/js/main.js"></script>
-		<meta name="viewport" content="device-width">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<?php if($dark_mode) { ?><body class="dark-mode"><?php } else { ?><body><?php } ?>
 		<div id="container"<?php if($internal_page_switch == true) { echo " class='internal-page-switch'"; } ?>>

@@ -11,10 +11,10 @@ function show_slide(slide_thumbnail_set, slide_id, this_thumbnail) {
 		slide_thumbnail_set.children(".slide-thumbnail-wrapper").not(this_thumbnail).removeClass("selected");
 	
 		// hide all other slides
-		content.children(".slide").not("#"+slide_id).removeClass("selected");
+		content.children(`.slide:not([data-slide-id=${slide_id}])`).removeClass("selected");
 
 		// get height of next slide
-		next_slide_content_height = Math.round(content.children(".slide#"+slide_id).height());
+		next_slide_content_height = Math.round(content.children(`.slide[data-slide-id=${slide_id}]`).height());
 		
 		// wait, then change content height to fit next slide
 		setTimeout(function() {
@@ -26,13 +26,13 @@ function show_slide(slide_thumbnail_set, slide_id, this_thumbnail) {
 		
 			// wait, then show next slide
 			setTimeout(function() {
-				content.children(".slide#"+slide_id).addClass("selected");
+				content.children(`.slide[data-slide-id=${slide_id}]`).addClass("selected");
 			}, 200);
 		}, 200);
 	}
 	
 	// check if there is a video in this slide
-	video = content.children(".slide#"+slide_id).children(".slide-contents").find("video")[0];
+	video = content.children(`.slide[data-slide-id=${slide_id}]`).children(".slide-contents").find("video")[0];
 	
 	// if there is a video, play it
 	if(video) {
@@ -173,7 +173,7 @@ function toggle_expanded_content(section_id_function_variable) {
 		// toggle class on content
 		expanded_content.removeClass("visible");
 
-		// ----- button transitio -----
+		// ----- button transition -----
 			
 		// toggle class on button
 		info_button.removeClass("collapse").addClass("expand");
@@ -192,7 +192,7 @@ function toggle_expanded_content(section_id_function_variable) {
 			
 		}, 100);
 		
-		show_slide(expanded_content.children(".slide-thumbnail-set"), "slide_0", expanded_content.children(".slide-thumbnail-set").children(".slide-thumbnail-wrapper").first());
+		show_slide(expanded_content.children(".slide-thumbnail-set"), 0, expanded_content.children(".slide-thumbnail-set").children(".slide-thumbnail-wrapper").first());
 	}
 	
 	setTimeout(function() {
@@ -212,7 +212,7 @@ $(document).ready(function() {
 		$(".slide-thumbnail-set .slide-thumbnail-wrapper").click(function() {
 			// get some info about this instance of slides and slide thumbnails
 			slide_thumbnail_set = $(this).parent();
-			slide_id = $(this).attr("id");
+			slide_id = $(this).attr("data-slide-id");
 		
 			show_slide(slide_thumbnail_set, slide_id, $(this));
 		});

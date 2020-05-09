@@ -31,7 +31,7 @@
 		</div>
 
 		<div class="slide-thumbnail-set">
-			<div class="slide-thumbnail-wrapper selected" id="<?php echo $project; ?>_slide_0">
+			<div class="slide-thumbnail-wrapper selected" data-slide-id="0">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/topic-page.jpg" style="width: 143px; height: 116px;">
@@ -39,7 +39,7 @@
 				</div>
 				<label>Topic Page</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_1">
+			<div class="slide-thumbnail-wrapper" data-slide-id="1">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/rhc.jpg" style="width: 140px; height: 116px;">
@@ -47,7 +47,7 @@
 				</div>
 				<label>Sidebar Unit</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_2">
+			<div class="slide-thumbnail-wrapper" data-slide-id="2">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/search-units.jpg" style="width: 168px; height: 114px;">
@@ -59,7 +59,7 @@
 	</div>
 
 	<div class="content" style="height: 801px;">
-		<div class="slide selected" id="<?php echo $project; ?>_slide_0">
+		<div class="slide selected" data-slide-id="0">
 			<div class="slide-contents">							
 				<div class="image-with-loading-placeholder">
 					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/topic-page.jpg" style="width: 1001px; height: 801px; position: absolute; left: 50%; margin-left: -500px;">
@@ -71,13 +71,13 @@
 				</div>
 			</div>
 		</div>
-		<div class="slide" id="<?php echo $project; ?>_slide_1">
+		<div class="slide" data-slide-id="1">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/rhc.jpg" style="width: 1002px; height: 801px;">
 				<div class="caption" style="display: block; margin-top: 40px;">The unit shows each topic with a headline for context.</div>
 			</div>
 		</div>
-		<div class="slide" id="<?php echo $project; ?>_slide_2">
+		<div class="slide" data-slide-id="2">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/search-units.jpg" style="width: 1122px; height: 724px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Each section provides a different way to learn about the story.</div>
