@@ -1,11 +1,34 @@
 $(window).on('load', function() {
-    $('.slide-contents').each(function() {
-        let projectName = $(this).closest('.section').children('.header').children('h1').text();
+    $('.slide').each(function() {
+        // let projectName = $(this).closest('.section').children('.header').children('h1').text();
+        let captionText = '';
 
-        if ($(this).children('.caption').length === 1) {
-            let caption = $(this).children('.caption').text();
+        if ($(this).data('slide-id') === 0) {
+            captionText += $(this).closest('.section').children('.header').children('h2').html();
 
-            $(this).children('img').attr('alt', `${projectName} - ${caption}`);
+            if ($(this).children('.slide-contents').children('.captionText').length > 0) {
+                captionText += $(this).children('.slide-contents').children('.captionText').text();
+            }
+
+            if ($(this).children('.slide-contents').children().children('.captionText').length > 0) {
+                captionText += $(this).children('.slide-contents').children().children('.captionText').text();
+            }
+
+            let formattedcaptionText = captionText.replace(/\./g, '. ').replace(/\<br\>/g, ' ');
+
+            $(this).children('.slide-contents').children('.image-with-loading-placeholder').children('img').attr('alt', formattedcaptionText);
+        } else {
+            if ($(this).children('.slide-contents').children('.captionText').length === 1) {
+                captionText = $(this).children('.slide-contents').children('.captionText').text();
+    
+                $(this).children('.slide-contents').children('img').attr('alt', captionText);
+            }
         }
-    })
+    });
+
+    $('.slide-thumbnail-wrapper').each(function() {
+        let captionText = $(this).children('label').text();
+
+        $(this).children('.slide-thumbnail').children('.slide-thumbnail-image').children('img').attr('alt', captionText);
+    });
 });
