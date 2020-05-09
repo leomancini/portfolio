@@ -4,7 +4,7 @@
 
 <div id="<?php echo $project; ?>-content" class="section riff">
 	<div class="header">
-		<img src="<?php echo $path; ?>content/<?php echo $project; ?>/header-icon.jpg" style="width: 197px; height: 197px; margin-top: -36px; margin-bottom: -32px;">
+		<img src="<?php echo $path; ?>content/<?php echo $project; ?>/header-icon.jpg" alt="Riff app icon" style="width: 197px; height: 197px; margin-top: -36px; margin-bottom: -32px;">
 		<h1>Facebook Riff</h1>
 		<h2>Create videos together<br>with your friends.</h2>
 	</div>

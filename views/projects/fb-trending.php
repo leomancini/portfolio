@@ -4,7 +4,7 @@
 
 <div id="<?php echo $project; ?>-content" class="section light white">
 	<div class="header">
-		<img src="<?php echo $path; ?>content/<?php echo $project; ?>/header-icon.jpg" style="width: 50px; height: 34px; margin: 5px 0;">
+		<img src="<?php echo $path; ?>content/<?php echo $project; ?>/header-icon.jpg" alt="Trending logo" style="width: 50px; height: 34px; margin: 5px 0;">
 		<h1>Facebook Trending</h1>
 		<h2>Learn about current<br>events through conversations.</h2>
 	</div>

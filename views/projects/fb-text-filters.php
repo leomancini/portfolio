@@ -4,7 +4,7 @@
 
 <div id="<?php echo $project; ?>-content" class="section text-filters">
 	<div class="background">
-		<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg">
+		<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg" alt="Add emotion and style to text posts.">
 	</div>
 	
 	<div class="header">

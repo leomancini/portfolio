@@ -65,7 +65,7 @@
 		</div>
 		<div class="slide" data-slide-id="1">
 			<div class="slide-contents">
-				<img data-delay-load-src="<?php echo $path; ?>content/places-browser/desktop.jpg" style="width: 1001px; height: 740px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/places-browser/desktop.jpg" alt="City list on desktop" style="width: 1001px; height: 740px;">
 			</div>
 		</div>
 	</div>
