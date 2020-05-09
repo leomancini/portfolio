@@ -6,20 +6,20 @@ $(window).on('load', function() {
         if ($(this).data('slide-id') === 0) {
             captionText += $(this).closest('.section').children('.header').children('h2').html();
 
-            if ($(this).children('.slide-contents').children('.captionText').length > 0) {
-                captionText += $(this).children('.slide-contents').children('.captionText').text();
+            if ($(this).children('.slide-contents').children('.caption').length > 0) {
+                captionText += $(this).children('.slide-contents').children('.caption').text();
             }
 
-            if ($(this).children('.slide-contents').children().children('.captionText').length > 0) {
-                captionText += $(this).children('.slide-contents').children().children('.captionText').text();
+            if ($(this).children('.slide-contents').children().children('.caption').length > 0) {
+                captionText += $(this).children('.slide-contents').children().children('.caption').text();
             }
 
             let formattedcaptionText = captionText.replace(/\./g, '. ').replace(/\<br\>/g, ' ');
 
             $(this).children('.slide-contents').children('.image-with-loading-placeholder').children('img').attr('alt', formattedcaptionText);
         } else {
-            if ($(this).children('.slide-contents').children('.captionText').length === 1) {
-                captionText = $(this).children('.slide-contents').children('.captionText').text();
+            if ($(this).children('.slide-contents').children('.caption').length === 1) {
+                captionText = $(this).children('.slide-contents').children('.caption').text();
     
                 $(this).children('.slide-contents').children('img').attr('alt', captionText);
             }

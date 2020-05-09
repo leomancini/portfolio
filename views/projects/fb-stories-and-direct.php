@@ -74,7 +74,7 @@
 	</div>
 
 	<div class="content" style="height: 751px;">
-		<div class="slide selected" id="0">
+		<div class="slide selected" data-slide-id="0">
 			<div class="slide-contents">
 				<div class="image-with-loading-placeholder">
 					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg" style="width: 1115px; height: 711px;">
