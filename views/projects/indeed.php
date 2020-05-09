@@ -75,9 +75,9 @@
 				<div class="image-with-loading-placeholder">
 					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg" style="width: 1115px; height: 711px;">
 					<div class="placeholder" style="margin: -714px auto 0 auto; text-align: left; width: 1130px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 8px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 42px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 341px; height: 711px; margin-left: 42px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" alt="Loading..." style="width: 341px; height: 711px; margin-left: 8px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" alt="Loading..." style="width: 341px; height: 711px; margin-left: 42px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" alt="Loading..." style="width: 341px; height: 711px; margin-left: 42px;">
 					</div>
 				</div>
 				<div style="width: 1116px; margin: 10px auto 0 auto; display: block;"><div class="caption" style="float: left; width: 338px;">See the newest and most relevant jobs.</div><div class="caption" style="width: 440px;">Find a job that fits your preferences.</div><div class="caption" style="float: right; width: 338px;">Search and apply for jobs.</div></div>

@@ -35,8 +35,8 @@
 					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/page.jpg" style="width: 1001px; height: 958px; position: absolute; left: 50%; margin-left: -500px;">
 					<div class="placeholder" style="width: 961px; height: 958px; left: 50%; top: 12px; margin-left: -480px;">
 						<div class="desktop-loading-top" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-top.jpg" style="width: 961px; height: 40px;"></div>
-						<div class="desktop-loading-middle" style="background: #FFFFFF; position: absolute; width: 961px; height: 850px; margin-top: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-middle.jpg" style="width: 961px; height: 100%;"></div>
-						<div class="desktop-loading-bottom" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px; margin-top: 878px;"><img src="<?php echo $path; ?>content/common/desktop-loading-bottom.jpg" style="width: 961px; height: 40px;"></div>
+						<div class="desktop-loading-middle" style="background: #FFFFFF; position: absolute; width: 961px; height: 850px; margin-top: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-middle.jpg" alt="Loading..." style="width: 961px; height: 100%;"></div>
+						<div class="desktop-loading-bottom" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px; margin-top: 878px;"><img src="<?php echo $path; ?>content/common/desktop-loading-bottom.jpg" alt="Loading..." style="width: 961px; height: 40px;"></div>
 					</div>
 				</div>
 			</div>

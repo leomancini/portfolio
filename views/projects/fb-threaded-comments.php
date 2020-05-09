@@ -37,7 +37,7 @@
 				<div class="image-with-loading-placeholder">
 					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/desktop-mobile.jpg" style="width: 1133px; height: 933px; position: absolute; left: 50%; margin-left: -566px;">
 					<div class="placeholder" style="width: 1113px; height: 916px; left: 50%; top: 13px; margin-left: -566px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/desktop-mobile-loading.jpg" style="width: 1113px; height: 916px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/desktop-mobile-loading.jpg" alt="Loading..." style="width: 1113px; height: 916px;">
 					</div>
 				</div>
 			</div>

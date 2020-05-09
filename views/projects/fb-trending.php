@@ -64,9 +64,9 @@
 				<div class="image-with-loading-placeholder">
 					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/topic-page.jpg" style="width: 1001px; height: 801px; position: absolute; left: 50%; margin-left: -500px;">
 					<div class="placeholder" style="width: 961px; height: 801px; left: 50%; top: 12px; margin-left: -480px;">
-						<div class="desktop-loading-top" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-top.jpg" style="width: 961px; height: 40px;"></div>
-						<div class="desktop-loading-middle" style="background: #FFFFFF; position: absolute; width: 961px; height: 690px; margin-top: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-middle.jpg" style="width: 961px; height: 100%;"></div>
-						<div class="desktop-loading-bottom" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px; margin-top: 722px;"><img src="<?php echo $path; ?>content/common/desktop-loading-bottom.jpg" style="width: 961px; height: 40px;"></div>
+						<div class="desktop-loading-top" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-top.jpg" alt="Loading..." style="width: 961px; height: 40px;"></div>
+						<div class="desktop-loading-middle" style="background: #FFFFFF; position: absolute; width: 961px; height: 690px; margin-top: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-middle.jpg" alt="Loading..." style="width: 961px; height: 100%;"></div>
+						<div class="desktop-loading-bottom" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px; margin-top: 722px;"><img src="<?php echo $path; ?>content/common/desktop-loading-bottom.jpg" alt="Loading..." style="width: 961px; height: 40px;"></div>
 					</div>
 				</div>
 			</div>

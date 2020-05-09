@@ -74,9 +74,9 @@
 				<div class="image-with-loading-placeholder">
 					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview.jpg" style="width: 1188px; height: 818px; margin-top: 53px;">
 					<div class="placeholder" style="margin: -821px auto 0 auto; text-align: center; width: 1207px; height: 818px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 387px; height: 747px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 387px; height: 747px; margin-left: 18px; vertical-align: 140px;">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" style="width: 387px; height: 747px; margin-left: 19px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" alt="Loading..." style="width: 387px; height: 747px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" alt="Loading..." style="width: 387px; height: 747px; margin-left: 18px; vertical-align: 140px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/overview-loading.jpg" alt="Loading..." style="width: 387px; height: 747px; margin-left: 19px;">
 					</div>
 				</div>
 			</div>

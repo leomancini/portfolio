@@ -56,9 +56,9 @@
 				<div class="image-with-loading-placeholder">
 					<img src="<?php echo $path; ?>content/places-browser/mobile.jpg" style="width: 1122px; height: 724px; position: absolute; left: 50%; margin-left: -561px;">
 					<div class="placeholder" style="width: 1132px; height: 724px; left: 50%; margin-left: -566px;">
-						<img src="<?php echo $path; ?>content/places-browser/mobile-loading.jpg" style="width: 341px; height: 724px">
-						<img src="<?php echo $path; ?>content/places-browser/mobile-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
-						<img src="<?php echo $path; ?>content/places-browser/mobile-loading.jpg" style="width: 341px; height: 724px; margin-left: 45.5px;">
+						<img src="<?php echo $path; ?>content/places-browser/mobile-loading.jpg" alt="Loading..." style="width: 341px; height: 724px">
+						<img src="<?php echo $path; ?>content/places-browser/mobile-loading.jpg" alt="Loading..." style="width: 341px; height: 724px; margin-left: 45.5px;">
+						<img src="<?php echo $path; ?>content/places-browser/mobile-loading.jpg" alt="Loading..." style="width: 341px; height: 724px; margin-left: 45.5px;">
 					</div>
 				</div>
 			</div>
