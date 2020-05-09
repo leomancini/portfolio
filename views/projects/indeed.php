@@ -9,7 +9,7 @@
 
 	<button id="info-button" class="expand">
 		<div class="info-button-content expand">More Info</div>
-		<div class="info-button-content collapse"><div class="x-button"><img src="<?php echo $path; ?>resources/images/x.png" style="width: 36px"></div></div>
+		<div class="info-button-content collapse"><div class="x-button"><img src="<?php echo $path; ?>resources/images/x.png" style="width: 36px" alt="Collapse additional info"></div></div>
 	</button>
 
 	<div class="expanded-content" data-expanded="0">		

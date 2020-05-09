@@ -68,15 +68,15 @@
 ?>
 
 <div id="preload">
-	<img src="<?php echo $path; ?>content/fb-stories-and-direct/overview-loading.jpg">
-	<img src="<?php echo $path; ?>content/fb-friends-browser/overview-loading.jpg">
-	<img src="<?php echo $path; ?>content/fb-riff/overview-loading.jpg">
-	<img src="<?php echo $path; ?>content/common/desktop-loading-top.jpg">
-	<img src="<?php echo $path; ?>content/common/desktop-loading-middle.jpg">
-	<img src="<?php echo $path; ?>content/common/desktop-loading-bottom.jpg">
-	<img src="<?php echo $path; ?>content/places-browser/mobile-loading.jpg">
-	<img src="<?php echo $path; ?>content/fb-news-feed-discovery/overview-loading.jpg">
-	<img src="<?php echo $path; ?>content/fb-threaded-comments/desktop-mobile-loading.jpg">
+	<img src="<?php echo $path; ?>content/fb-stories-and-direct/overview-loading.jpg" alt="Loading...">
+	<img src="<?php echo $path; ?>content/fb-friends-browser/overview-loading.jpg" alt="Loading...">
+	<img src="<?php echo $path; ?>content/fb-riff/overview-loading.jpg" alt="Loading...">
+	<img src="<?php echo $path; ?>content/common/desktop-loading-top.jpg" alt="Loading...">
+	<img src="<?php echo $path; ?>content/common/desktop-loading-middle.jpg" alt="Loading...">
+	<img src="<?php echo $path; ?>content/common/desktop-loading-bottom.jpg" alt="Loading...">
+	<img src="<?php echo $path; ?>content/places-browser/mobile-loading.jpg" alt="Loading...">
+	<img src="<?php echo $path; ?>content/fb-news-feed-discovery/overview-loading.jpg" alt="Loading...">
+	<img src="<?php echo $path; ?>content/fb-threaded-comments/desktop-mobile-loading.jpg" alt="Loading...">
 </div>
 
 <header>
