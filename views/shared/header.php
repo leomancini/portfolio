@@ -50,7 +50,7 @@
 ?>
 
 <!DOCTYPE HTML>
-<html id="<?php echo $page["id"]; ?> lang="en">
+<html id="<?php echo $page["id"]; ?>" lang="en">
 	<head>
 		<title>Leo Mancini - <?php echo $page["title"]; ?></title>
 	    <meta charset="UTF-8">

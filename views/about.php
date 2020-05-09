@@ -2,11 +2,11 @@
 	$page = Array("title" => "About", "id" => "about");
 	require("shared/header.php");
 ?>
+
 <header>
 	<div class="header-content">
-		<h1>Leo Mancini</h1>
 		<div id="name">
-			<a href="./"><img src="<?php echo $path; ?>resources/images/name.jpg" style="width: 245px; height: 37px;"></a>
+			<a href="./"><h1>Leo Mancini</h1><img src="<?php echo $path; ?>resources/images/name.jpg" style="width: 245px; height: 37px;" alt="Leo Mancini"></a>
 		</div>
 		<h2><a href="mailto:mancini@leo.gd">mancini@leo.gd</a></h2>
 		<div class="links">
