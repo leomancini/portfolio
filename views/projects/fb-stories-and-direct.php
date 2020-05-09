@@ -49,7 +49,7 @@
 			<div class="slide-thumbnail-wrapper" data-slide-id="2" style="margin-right: 10px; width: 170px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/desktop.jpg" style="width: 158px; height: 106px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/desktop.jpg" style="width: 157px; height: 114px;">
 					</div>
 				</div>
 				<label>Desktop</label>

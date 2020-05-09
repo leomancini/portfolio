@@ -34,7 +34,7 @@
 			<div class="slide-thumbnail-wrapper selected" data-slide-id="0">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/topic-page.jpg" style="width: 143px; height: 116px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/topic-page.jpg" style="width: 140px; height: 116px;">
 					</div>
 				</div>
 				<label>Topic Page</label>
