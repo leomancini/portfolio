@@ -97,10 +97,7 @@
 <div class="grey-divider"></div>
 
 <div id="navigation">
-	<div class="links">
-		<?php $project_index = 0; ?>
-		<?php foreach($projects as $project) { $project_index++; ?><a href="#<?php echo $project["id"]; ?>" data-section-id="<?php echo $project["id"]; ?>"<?php if($internal_page_switch && $project_index == 1) { echo ' class="selected"'; } ?>><?php echo $project["title"]; ?></a><?php } ?>
-	</div>
+	<div class="links"><?php $project_index = 0; foreach($projects as $project) { $project_index++; ?><a href="#<?php echo $project["id"]; ?>" data-section-id="<?php echo $project["id"]; ?>"<?php if($internal_page_switch && $project_index == 1) { echo ' class="selected"'; } ?>><?php echo $project["title"]; ?></a><?php } ?></div>
 	<div class="grey-divider bottom-white"></div>
 	<div id="shadow"></div>
 </div>
