@@ -32,7 +32,7 @@
 	</div>
 
 	<div class="content" style="height: 924px;">
-		<div class="slide selected" id="slide_0">
+		<div class="slide selected" id="<?php echo $project; ?>_slide_0">
 			<div class="slide-contents">							
 				<div class="image-with-loading-placeholder">
 					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/desktop-mobile.jpg" style="width: 1133px; height: 933px; position: absolute; left: 50%; margin-left: -566px;">

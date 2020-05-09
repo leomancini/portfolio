@@ -31,7 +31,7 @@
 		</div>
 	
 		<div class="slide-thumbnail-set">
-			<div class="slide-thumbnail-wrapper selected" id="slide_0" style="margin-right: 20px;">
+			<div class="slide-thumbnail-wrapper selected" id="<?php echo $project; ?>_slide_0" style="margin-right: 20px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/overview.jpg" style="width: 168px; height: 114px;">
@@ -39,7 +39,7 @@
 				</div>
 				<label>Overview</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="slide_1" style="margin-right: 20px;">
+			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_1" style="margin-right: 20px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/branding.jpg" style="width: 168px; height: 114px;">
@@ -47,7 +47,7 @@
 				</div>
 				<label>Branding</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="slide_2" style="margin-right: 20px; width: 134px;">
+			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_2" style="margin-right: 20px; width: 134px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/android.jpg" style="width: 125px; height: 116px;">
@@ -55,7 +55,7 @@
 				</div>
 				<label>Android</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="slide_3" style="margin-right: 20px; width: 85px;">
+			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_3" style="margin-right: 20px; width: 85px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/composer.jpg" style="width: 65px; height: 114px;">
@@ -63,7 +63,7 @@
 				</div>
 				<label>Composer</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="slide_4" style="margin-right: 20px;">
+			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_4" style="margin-right: 20px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/website.jpg" style="width: 174px; height: 116px;">
@@ -71,7 +71,7 @@
 				</div>
 				<label>Website</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="slide_5" style="width: 100px;">
+			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_5" style="width: 100px;">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/t-shirt.jpg" style="width: 100px; height: 114px;">
@@ -84,7 +84,7 @@
 	</div>
 
 	<div class="content" style="height: 780px;">
-		<div class="slide selected" id="slide_0">
+		<div class="slide selected" id="<?php echo $project; ?>_slide_0">
 			<div class="slide-contents">
 				<div style="width: 1116px; margin: 10px auto 25px auto; display: block; font-family: 'Helvetica Rounded'; font-weight: 400;"><div class="caption" style="float: left; width: 338px; color: #FFFFFF;">Someone picks a topic.</div><div class="caption" style="width: 440px; color: #FFFFFF;">Friends add clips.</div><div class="caption" style="float: right; width: 338px; color: #FFFFFF;">Awesome videos go viral!</div></div>
 				<div class="image-with-loading-placeholder">
@@ -99,7 +99,7 @@
 				</div>	
 			</div>
 		</div>
-		<div class="slide" id="slide_1">
+		<div class="slide" id="<?php echo $project; ?>_slide_1">
 			<div class="slide-contents">
 				<video width="285" height="512" loop playsinline style="position: absolute; margin-top: 105px; margin-left: 420px;">
 				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/ptr.mp4" type="video/mp4">
@@ -108,13 +108,13 @@
 				<div class="caption" style="display: block; margin-top: 40px;">The branding was meant to inspire fun and creative videos.</div>
 			</div>
 		</div>
-		<div class="slide" id="slide_2">
+		<div class="slide" id="<?php echo $project; ?>_slide_2">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/android.jpg" style="width: 797px; height: 734px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Riff designed for Android, which we launched simultaneously as iOS.</div>
 			</div>
 		</div>
-		<div class="slide" id="slide_3">
+		<div class="slide" id="<?php echo $project; ?>_slide_3">
 			<div class="slide-contents">
 				<video width="286" height="510" loop playsinline style="position: absolute; margin-top: 105px; margin-left: 29px;">
 				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/composer.mp4" type="video/mp4">
@@ -123,13 +123,13 @@
 				<div class="caption" style="display: block; margin-top: 40px;">When you add to a video, a countdown clock gets you ready.</div>
 			</div>
 		</div>
-		<div class="slide" id="slide_4">
+		<div class="slide" id="<?php echo $project; ?>_slide_4">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/website.jpg" style="width: 1322px; height: 835px;">
 				<div class="caption" style="display: block; margin-top: 40px;">Marketing website for Riff.</div>
 			</div>
 		</div>
-		<div class="slide" id="slide_5">
+		<div class="slide" id="<?php echo $project; ?>_slide_5">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/t-shirt.jpg" style="width: 586px; height: 689px;">
 				<div class="caption" style="display: block; margin-top: 40px;">T-shirts for the team.</div>

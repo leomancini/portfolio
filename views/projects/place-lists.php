@@ -31,7 +31,7 @@
 		</div>
 	
 		<div class="slide-thumbnail-set">
-			<div class="slide-thumbnail-wrapper selected" id="slide_0">
+			<div class="slide-thumbnail-wrapper selected" id="<?php echo $project; ?>_slide_0">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/places-browser/thumbs/mobile.jpg" style="width: 168px; height: 114px;">
@@ -39,7 +39,7 @@
 				</div>
 				<label>Mobile</label>
 			</div>
-			<div class="slide-thumbnail-wrapper" id="slide_1">
+			<div class="slide-thumbnail-wrapper" id="<?php echo $project; ?>_slide_1">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
 						<img src="<?php echo $path; ?>content/places-browser/thumbs/desktop.jpg" style="width: 151px; height: 116px;">
@@ -51,7 +51,7 @@
 	</div>
 
 	<div class="content" style="height: 740px;">
-		<div class="slide selected" id="slide_0">
+		<div class="slide selected" id="<?php echo $project; ?>_slide_0">
 			<div class="slide-contents">							
 				<div class="image-with-loading-placeholder">
 					<img src="<?php echo $path; ?>content/places-browser/mobile.jpg" style="width: 1122px; height: 724px; position: absolute; left: 50%; margin-left: -561px;">
@@ -63,7 +63,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="slide" id="slide_1">
+		<div class="slide" id="<?php echo $project; ?>_slide_1">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/places-browser/desktop.jpg" style="width: 1001px; height: 740px;">
 			</div>
