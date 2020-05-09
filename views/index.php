@@ -2,7 +2,7 @@
 	$page = Array("title" => "Selected Work", "id" => "index");
 	require("shared/header.php");
 
-	$configFile = file_get_contents('../../config/portfolio2018.json');
+	$configFile = file_get_contents('../config/portfolio2018.json');
 	$config = json_decode($configFile, true);
 	
 	if ($_GET['projectsOverride'] && $_GET['projectsOverridePassword'] && md5($_GET['projectsOverridePassword']) === $config['projectsOverridePasswordHash']) {
