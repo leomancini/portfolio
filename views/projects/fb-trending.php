@@ -23,10 +23,10 @@
 				<span class="title">Solution</span>
 				<p>The trending unit on Facebook's homepage shows breaking news events and popular conversations in the world.</p><p>When you click a topic, you see a page designed to help you understand the topic from various perspectives. You can browse top headlines from news publishers, comments by relevant public figures, photos and videos from people involved, live updates, and posts from friends and family.</p></div><div class="text-block">
 				<span class="title">Role</span>
-				<p>Working closely with leadership to refine the trending sidebar unit, we launched in early 2014.</p><p>We designed a system for presenting content about a topic through different sections.</p><p>This system was used for the trending topic and search result pages. It was also used in experiences for the <a target="_blank" href="https://newsroom.fb.com/news/2015/02/trending-oscars-on-facebook/">Oscars</a> and the <a target="_blank" href="https://newsroom.fb.com/news/2015/01/introducing-a-new-super-bowl-experience-on-facebook/">Super Bowl</a>.</p></div>
+				<p>Working closely with leadership to refine the trending sidebar unit, we launched in early 2014.</p><p>We designed a system for presenting content about a topic through different sections.</p><p>This system was used for the trending topic and search result pages. It was also used in experiences for the <a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2015/02/trending-oscars-on-facebook/">Oscars</a> and the <a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2015/01/introducing-a-new-super-bowl-experience-on-facebook/">Super Bowl</a>.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" href="https://newsroom.fb.com/news/2014/01/finding-popular-conversations-on-facebook/">Announcement</a><a target="_blank" href="https://newsroom.fb.com/news/2014/12/updates-to-trending/">Updates</a><a target="_blank" href="http://mashable.com/2014/01/16/facebook-trending/">Press Coverage</a>
+				<a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2014/01/finding-popular-conversations-on-facebook/">Announcement</a><a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2014/12/updates-to-trending/">Updates</a><a target="_blank" rel="noopener" href="http://mashable.com/2014/01/16/facebook-trending/">Press Coverage</a>
 			</div>
 		</div>
 

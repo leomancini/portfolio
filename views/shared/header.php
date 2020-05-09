@@ -50,18 +50,8 @@
 ?>
 
 <!DOCTYPE HTML>
-<html id="<?php echo $page["id"]; ?>">
-
+<html id="<?php echo $page["id"]; ?> lang="en">
 	<head>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112757234-1"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-
-		  gtag('config', 'UA-112757234-1');
-		</script>
 		<title>Leo Mancini - <?php echo $page["title"]; ?></title>
 	    <meta charset="UTF-8">
 	    <meta name="description" content="Recent product and interaction design, prototyping, strategy and engineering work.">
@@ -80,6 +70,15 @@
 		<script src="<?php echo $path; ?>resources/js/lib/jquery.js"></script>
 		<script src="<?php echo $path; ?>resources/js/main.js"></script>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112757234-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-112757234-1');
+		</script>
 	</head>
 	<?php if($dark_mode) { ?><body class="dark-mode"><?php } else { ?><body><?php } ?>
 		<div id="container"<?php if($internal_page_switch == true) { echo " class='internal-page-switch'"; } ?>>

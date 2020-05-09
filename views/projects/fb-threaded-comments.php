@@ -26,7 +26,7 @@
 				<p>As an intern in 2012, I designed various layouts for comment threads with replies. I also prototyped the interactions of replying to a comment and collapsing or expanding the thread.</p><p>We presented to Mark Zuckerberg and the product leadership team. The feature was initially launched for comment threads on posts by Pages. After refinement and further iteration by another team, the feature was launched to all threads.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" href="https://www.facebook.com/notes/journalists-on-facebook/improving-conversations-on-facebook-with-replies/578890718789613/">Announcement</a><a target="_blank" href="https://www.huffingtonpost.com/craig-kanalley/facebook-replies-threaded_b_2974226.html">Press Coverage</a>
+				<a target="_blank" rel="noopener" href="https://www.facebook.com/notes/journalists-on-facebook/improving-conversations-on-facebook-with-replies/578890718789613/">Announcement</a><a target="_blank" rel="noopener" href="https://www.huffingtonpost.com/craig-kanalley/facebook-replies-threaded_b_2974226.html">Press Coverage</a>
 			</div>
 		</div>
 	</div>

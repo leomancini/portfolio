@@ -26,7 +26,7 @@
 				<span class="title" style="color: #52BEF6;">Solution</span>
 				<p>Just like a filter can help express the mood or emotion of a photo, we experimented with what a "filter" could be for text posts.</p><p>Instead of sharing just what you wrote, you would be able to select a combination of fonts, colors, and images to help tell your story.</p></div><div class="text-block">
 				<span class="title" style="color: #67CF23;">Role</span>
-				<p>We prototyped this idea and pitched it to leadership. After some tests, research and iteration, another team went on to build out a version of this concept.</p><p>Later, it evolved to a feature where you could <a target="_blank" href="https://www.engadget.com/2016/12/19/spice-up-your-facebook-timeline-with-colored-backgrounds/">add a background color to your post</a>.</p></div>
+				<p>We prototyped this idea and pitched it to leadership. After some tests, research and iteration, another team went on to build out a version of this concept.</p><p>Later, it evolved to a feature where you could <a target="_blank" rel="noopener" href="https://www.engadget.com/2016/12/19/spice-up-your-facebook-timeline-with-colored-backgrounds/">add a background color to your post</a>.</p></div>
 			</div>
 		</div>
 	</div>

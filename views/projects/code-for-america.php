@@ -23,10 +23,10 @@
 				<p>We conducted research to identify systemic issues in the workforce system. We interviewed dozens of case managers and job seekers.</p><p>We prototyped and tested various technology products to help people find and keep high-quality jobs. We used these experiments to inspire government partners to use technology to improve delivery of workforce services. 
 </p></div><div class="text-block">
 				<span class="title">Role</span>
-				<p>Collaborating with a small cross-functional team, I led research, design, prototyping, and experimentation.</p><p>I designed high-fidelity screens, mocked up interactive demos, and <a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">built functional prototypes and websites</a>.</p><p>We gathered feedback from government leaders and non-profits to refine and improve our products.</p></div>
+				<p>Collaborating with a small cross-functional team, I led research, design, prototyping, and experimentation.</p><p>I designed high-fidelity screens, mocked up interactive demos, and <a target="_blank" rel="noopener" href="https://github.com/topics/codeforamerica-workforce-2018">built functional prototypes and websites</a>.</p><p>We gathered feedback from government leaders and non-profits to refine and improve our products.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" href="https://github.com/topics/codeforamerica-workforce-2018">Prototype Code</a><a target="_blank" href="https://www.google.org/our-work/economic-opportunity/code-for-america/">Grant from Google.org</a><a target="_blank" href="https://www.doleta.gov/business/pws.cfm">Overview of Public Workforce System</a><a target="_blank" href="https://www.codeforamerica.org/news/following-the-user-need-beyond-traditional-boundaries">Lessons Learned</a>
+				<a target="_blank" rel="noopener" href="https://github.com/topics/codeforamerica-workforce-2018">Prototype Code</a><a target="_blank" rel="noopener" href="https://www.google.org/our-work/economic-opportunity/code-for-america/">Grant from Google.org</a><a target="_blank" rel="noopener" href="https://www.doleta.gov/business/pws.cfm">Overview of Public Workforce System</a><a target="_blank" rel="noopener" href="https://www.codeforamerica.org/news/following-the-user-need-beyond-traditional-boundaries">Lessons Learned</a>
 			</div>
 		</div>
 
@@ -97,7 +97,7 @@
 				  <source data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/find-training-feed-video.mp4" type="video/mp4">
 				</video>
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/find-training.jpg" style="width: 1122px; height: 724px;">
-				<div class="caption" style="display: block; margin-top: 40px;">Help job seekers <a href="https://github.com/codeforamerica/etpl-search" target="_blank">find and compare training programs</a> that are eligible for tuition assistance from the government.</div>
+				<div class="caption" style="display: block; margin-top: 40px;">Help job seekers <a href="https://github.com/codeforamerica/etpl-search" target="_blank" rel="noopener">find and compare training programs</a> that are eligible for tuition assistance from the government.</div>
 			</div>
 		</div>
 		<div class="slide" data-slide-id="2">
