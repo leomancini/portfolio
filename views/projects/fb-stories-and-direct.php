@@ -25,7 +25,7 @@
 				<p>After working on several experimental sharing products in Facebook's London office, I moved back to California in August 2016 to help lead the effort to build Stories and Direct. We launched worldwide in March 2017.</p><p>Working on the team designing the system for sharing visual content on Facebook, I collaborated with engineering, product marketing and research teams to build, test and launch.</p><p>We presented to Mark Zuckerberg and the product leadership team to gain consensus and set direction.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" rel="noopener" href="http://www.facebook.com/facebook/videos/10155656407651729/">Launch Video</a><a target="_blank" rel="noopener" href="http://newsroom.fb.com/news/2017/03/more-ways-to-share-with-the-facebook-camera/">Announcement</a><a target="_blank" rel="noopener" href="http://techcrunch.com/2017/03/28/storybook/">Press Coverage</a>
+				<a target="_blank" rel="noopener" href="http://www.facebook.com/facebook/videos/10155656407651729/">Launch Video</a><a target="_blank" rel="noopener" href="http://newsroom.fb.com/news/2017/03/more-ways-to-share-with-the-facebook-camera/">Announcement</a><a target="_blank" rel="noopener" href="http://techcrunch.com/2017/03/28/storybook/">Press Coverage</a><a target="_blank" rel="noopener" href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20190018864.PGNR.">Patent Pending</a>
 			</div>
 		</div>
 	
