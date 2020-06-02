@@ -19,7 +19,7 @@
 </header>
 			
 <div id="about">
-	<img src="<?php echo $path; ?>resources/images/face/BlackLivesMatter.jpg" class="face" style="width: 150px; height: 150px;">
+	<img src="<?php echo $path; ?>resources/images/face/BlackLivesMatter.png" class="face" style="width: 150px; height: 150px;">
 	<h1>I’m a designer, engineer, and artist.</h1>
 	<h2>I believe design and technology should<br>encourage community, equal opportunity<br>and social progress.</h2>
 	<h3>Based in San Francisco, California.<br>Originally from Queens, NYC.</h3>
