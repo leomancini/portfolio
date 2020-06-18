@@ -53,9 +53,9 @@
 <html id="<?php echo $page["id"]; ?>" lang="en">
 	<head>
 		<title>Leo Mancini - <?php echo $page["title"]; ?></title>
-	    <meta charset="UTF-8">
-	    <meta name="description" content="Recent product and interaction design, prototyping, strategy and engineering work.">
-	    <meta name="author" content="Leo Mancini">
+		<meta charset="UTF-8">
+		<meta name="description" content="Recent product and interaction design, prototyping, strategy and engineering work.">
+		<meta name="author" content="Leo Mancini">
 		<meta property="og:image" content="http://leo.gd/portfolio2018/resources/images/og-share-preview.jpg">
 		<meta property="og:url" content="https://leo.gd">
 		<meta property="og:title" content="Leo Mancini - Selected Work">
@@ -69,15 +69,14 @@
 		<script type="text/javascript"> window.this_page = "<?php echo $page["id"]; ?>"; </script>
 		<script src="<?php echo $path; ?>resources/js/lib/jquery.js"></script>
 		<script src="<?php echo $path; ?>resources/js/main.js"></script>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<meta name="viewport" content="width=1300, initial-scale=1.0">
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112757234-1"></script>
 		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
 
-		  gtag('config', 'UA-112757234-1');
+			gtag('config', 'UA-112757234-1');
 		</script>
 	</head>
 	<?php if($dark_mode) { ?><body class="dark-mode"><?php } else { ?><body><?php } ?>
