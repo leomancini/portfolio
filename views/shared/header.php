@@ -69,7 +69,7 @@
 		<script type="text/javascript"> window.this_page = "<?php echo $page["id"]; ?>"; </script>
 		<script src="<?php echo $path; ?>resources/js/lib/jquery.js"></script>
 		<script src="<?php echo $path; ?>resources/js/main.js"></script>
-		<meta name="viewport" content="width=1300, initial-scale=1.0">
+		<meta name="viewport" content="width=1300">
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112757234-1"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
