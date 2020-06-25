@@ -1383,7 +1383,7 @@ html, body {
 				user-select: none;
 				width: 150px;
 				height: 150px;
-				border-radius: 150px;
+				// border-radius: 150px;
 				overflow: hidden;
 			}
 			
@@ -1417,6 +1417,16 @@ html, body {
 				letter-spacing: 0;
 				line-height: 22px;
 				margin-bottom: 0;
+
+				a {
+					text-decoration: none;
+					color: rgba(0, 0, 0, 0.4);
+					
+					&:hover {
+						text-decoration: underline;
+						color: #000000;
+					}
+				}
 			}
 			
 			h4 {

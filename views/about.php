@@ -22,8 +22,8 @@
 	<img src="<?php echo $path; ?>resources/images/face/2019.jpg" class="face">
 	<h1>I’m a designer, engineer, and artist.</h1>
 	<h2>I believe design and technology should<br>encourage community, equal opportunity<br>and social progress.</h2>
-	<h3>Based in San Francisco, California.<br>Originally from Queens, NYC.</h3>
-	<h4><a target="_blank" rel="noopener" href="http://facebook.com/leo"><img src="<?php echo $path; ?>resources/images/emoji/bluebook.jpg"></a> <a target="_blank" rel="noopener" href="http://linkedin.com/in/leomancini"><img src="<?php echo $path; ?>resources/images/emoji/astronaut.jpg"></a> <a href="mailto:mancini@leo.gd"><img src="<?php echo $path; ?>resources/images/emoji/wave.jpg"></a></h4>
+	<h3>Based in <a target="_blank" rel="noopener" href="https://places.leo.gd/san-francisco">San Francisco, California</a>.<br>Originally from <a target="_blank" rel="noopener" href="https://places.leo.gd/new-york#113">Queens, NYC</a>.</h3>
+	<h4><a target="_blank" rel="noopener" href="https://facebook.com/leo"><img src="<?php echo $path; ?>resources/images/emoji/bluebook.jpg"></a> <a target="_blank" rel="noopener" href="https://linkedin.com/in/leomancini"><img src="<?php echo $path; ?>resources/images/emoji/astronaut.jpg"></a> <a href="mailto:mancini@leo.gd"><img src="<?php echo $path; ?>resources/images/emoji/wave.jpg"></a></h4>
 </div>
 	
 <div id="container-grey-background">
