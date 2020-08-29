@@ -26,7 +26,7 @@
 				<p>Collaborating with a small cross-functional team, I led research, design, prototyping, and experimentation.</p><p>I designed high-fidelity screens, mocked up interactive demos, and <a target="_blank" rel="noopener" href="https://github.com/topics/codeforamerica-workforce-2018">built functional prototypes and websites</a>.</p><p>We gathered feedback from government leaders and non-profits to refine and improve our products.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" rel="noopener" href="https://github.com/topics/codeforamerica-workforce-2018">Prototype Code</a><a target="_blank" rel="noopener" href="https://www.google.org/our-work/economic-opportunity/code-for-america/">Grant from Google.org</a><a target="_blank" rel="noopener" href="https://workforce.urban.org/topics/public-workforce-system">Overview of Public Workforce System</a><a target="_blank" rel="noopener" href="https://www.codeforamerica.org/news/following-the-user-need-beyond-traditional-boundaries">Lessons Learned</a>
+				<a target="_blank" rel="noopener" href="https://github.com/topics/codeforamerica-workforce-2018">Prototype Code</a><a target="_blank" rel="noopener" href="https://www.google.org/intl/uk/our-work/economic-opportunity/code-for-america/">Grant from Google.org</a><a target="_blank" rel="noopener" href="https://workforce.urban.org/topics/public-workforce-system">Overview of Public Workforce System</a><a target="_blank" rel="noopener" href="https://www.codeforamerica.org/news/following-the-user-need-beyond-traditional-boundaries">Lessons Learned</a>
 			</div>
 		</div>
 
