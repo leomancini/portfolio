@@ -25,7 +25,7 @@
 	</div>
 	<div id="position">
 		<h3><a href="https://squareup.com/us/en/about" target="_blank" rel="noopener">Square</a></h3>
-		<h4>Product Designer &nbsp;<span class="inline-description">April 2020 &ndash; present</span></h4>
+		<h4>Senior Product Designer &nbsp;<span class="inline-description">April 2020 &ndash; present</span></h4>
 		<div class="description">Designing products to expand access to economic opportunity</div>
 	</div>
 	<div id="position">
@@ -43,7 +43,7 @@
 	</div>
 	<div id="position">
 		<h3><a href="https://www.codeforamerica.org/about-us" target="_blank" rel="noopener">Code for America</a></h3>
-		<h4>Product Designer &nbsp;<span class="inline-description">April 2018 &ndash; December 2018</span></h4>
+		<h4>Lead Product Designer &nbsp;<span class="inline-description">April 2018 &ndash; December 2018</span></h4>
 		<div class="description">
 			<p>Developed products and strategies to improve delivery of America's public workforce services</p>
 			<ul>
@@ -60,7 +60,7 @@
 	</div>
 	<div id="position">
 		<h3><a href="https://about.fb.com/" target="_blank" rel="noopener">Facebook</a></h3>
-		<h4>Product Designer &nbsp;<span class="inline-description">October 2012 &ndash; September 2017</span></h4>
+		<h4>Lead Product Designer &nbsp;<span class="inline-description">October 2012 &ndash; September 2017</span></h4>
 		<div class="description">
 			<p>Collaborated with product teams to identify high-impact problems and develop solutions in sharing, audience, and public content</p>
 			<ul>
