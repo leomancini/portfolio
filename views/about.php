@@ -22,7 +22,7 @@
 	<div id="face"><img src="<?php echo $path; ?>resources/images/face/2021.png"></div>
 	<h1>I’m a designer, engineer, and artist.</h1>
 	<h2>I believe design and technology should<br>encourage community, equal opportunity,<br>and social progress.</h2>
-	<h3>Based in <a target="_blank" rel="noopener" href="https://places.leo.gd/san-francisco">San Francisco, California</a>.<br>Originally from <a target="_blank" rel="noopener" href="https://places.leo.gd/new-york#113">Queens, NYC</a>.</h3>
+	<h3>Living and working in <a target="_blank" rel="noopener" href="https://places.leo.gd/new-york">New York City</a>.<br>Originally from <a target="_blank" rel="noopener" href="https://places.leo.gd/new-york#113">Queens, NY</a>.</h3>
 	<h4><a target="_blank" rel="noopener" href="https://facebook.com/leo"><img src="<?php echo $path; ?>resources/images/emoji/bluebook.jpg"></a> <a target="_blank" rel="noopener" href="https://linkedin.com/in/leomancini"><img src="<?php echo $path; ?>resources/images/emoji/astronaut.jpg"></a> <a href="mailto:mancini@leo.gd"><img src="<?php echo $path; ?>resources/images/emoji/wave.jpg"></a></h4>
 </div>
 	
