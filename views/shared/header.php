@@ -52,7 +52,7 @@
 <!DOCTYPE HTML>
 <html id="<?php echo $page["id"]; ?>" lang="en">
 	<head>
-		<title>Leo Mancini - <?php echo $page["title"]; ?></title>
+		<title>Leo Mancini &#8211; <?php echo $page["title"]; ?></title>
 		<meta charset="UTF-8">
 		<meta name="description" content="Recent product and interaction design, prototyping, strategy and engineering work.">
 		<meta name="author" content="Leo Mancini">
