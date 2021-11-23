@@ -19,7 +19,7 @@
 </header>
 			
 <div id="about">
-	<div id="face"><img src="<?php echo $path; ?>resources/images/face/2021.png"></div>
+	<div id="face"><img src="<?php echo $path; ?>resources/images/face/2022.png"></div>
 	<h1>I’m a designer, engineer, and artist.</h1>
 	<h2>I believe design and technology should<br>encourage community, equal opportunity,<br>and social progress.</h2>
 	<h3>Living and working in <a target="_blank" rel="noopener" href="https://places.leo.gd/new-york">New York City</a>.<br>Originally from <a target="_blank" rel="noopener" href="https://places.leo.gd/new-york#113">Queens, NY</a>.</h3>
