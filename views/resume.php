@@ -128,7 +128,7 @@
 		<div class="description print-hidden">Created <a href="https://leomancini.net/##nyc-department-of-education" target="_blank" rel="noopener">advertisements, posters, and signage</a> for print and web</div>
 	</div>
 	<div id="position" class="print-hidden">
-		<h3><a href="https://leomancini.net/##sva" target="_blank" rel="noopener">School of Visual Arts</a></h3>
+		<h3><a href="https://leomancini.net/##sva-engineering" target="_blank" rel="noopener">School of Visual Arts</a></h3>
 		<h4>Engineer and Application Developer &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
 		<div class="description">Built <a href="https://leomancini.net/sva-2012-portfolio-app" target="_blank" rel="noopener">senior-class portfolio iOS app</a> and <span href="https://leomancini.net/sva-attendance-app" target="_blank" rel="noopener">attendance system</span> for lectures</div>
 	</div>
