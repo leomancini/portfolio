@@ -24,7 +24,7 @@
 		<h2>Portfolio: <a href="http://leo.gd">www.leo.gd</a> &nbsp;&nbsp;&nbsp; Email: <a href="mailto:mancini@leo.gd">mancini@leo.gd</a></h2>
 	</div>
 	<div id="position">
-		<h3><a href="https://leomancini.net/##square" target="_blank" rel="noopener">Cash App</a></h3>
+		<h3>Cash App</h3>
 		<h4>Senior Product Designer &nbsp;<span class="inline-description">October 2022 &ndash; present</span></h4>
 	</div>
 	<div id="position">
