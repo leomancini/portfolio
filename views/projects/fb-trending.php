@@ -26,7 +26,7 @@
 				<p>Working closely with leadership to refine the trending sidebar unit, we launched in early 2014.</p><p>We designed a system for presenting content about a topic through different sections.</p><p>This system was used for the trending topic and search result pages. It was also used in experiences for the <a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2015/02/trending-oscars-on-facebook/">Oscars</a> and the <a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2015/01/introducing-a-new-super-bowl-experience-on-facebook/">Super Bowl</a>.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2014/01/finding-popular-conversations-on-facebook/">Announcement</a><a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2014/12/updates-to-trending/">Updates</a><a target="_blank" rel="noopener" href="http://mashable.com/2014/01/16/facebook-trending/">Press Coverage</a><a target="_blank" rel="noopener" href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=10628473.PN.">Patent</a>
+				<a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2014/01/finding-popular-conversations-on-facebook/">Announcement</a><a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2014/12/updates-to-trending/">Updates</a><a target="_blank" rel="noopener" href="http://mashable.com/2014/01/16/facebook-trending/">Press Coverage</a><a target="_blank" rel="noopener" href="https://labs.noshado.ws/patent/10628473">Patent</a>
 			</div>
 		</div>
 

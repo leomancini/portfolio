@@ -25,7 +25,7 @@
 				<p>In 2013 and 2014, I worked with the News Feed team to design various features for recommending content and suggesting sources.</p><p>We prototyped and pitched several concepts, variations of which were then further developed and launched.</p></div>
 			</div>
 			<div class="links">
-				<a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2013/12/news-feed-fyi-helping-you-find-more-news-to-talk-about/">Articles Announcement</a><a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2014/09/the-latest-on-facebook-video/">Videos Announcement</a><a target="_blank" rel="noopener" href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/9560154">Patent</a>
+				<a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2013/12/news-feed-fyi-helping-you-find-more-news-to-talk-about/">Articles Announcement</a><a target="_blank" rel="noopener" href="https://newsroom.fb.com/news/2014/09/the-latest-on-facebook-video/">Videos Announcement</a><a target="_blank" rel="noopener" href="https://labs.noshado.ws/patent/10306003">Patent</a>
 			</div>
 		</div>
 	</div>
