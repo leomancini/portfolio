@@ -86,11 +86,11 @@
 				<span class="project-name"><a href="https://leomancini.net/fb-text-filters" target="_blank" rel="noopener">Text Filters</a></span> &ndash; add emotion and style to text posts
 				<br>
 				<h5>Audience</h5>
-				<span class="project-name">Teens</span> &ndash; experiments in visual sharing
+				<span class="project-name"><a href="https://leomancini.net/fb-blush" target="_blank" rel="noopener">Teens</a></span> &ndash; experiments in visual sharing
 				<br>
-				<span class="project-name">Japan</span> &ndash; research on identity
+				<span class="project-name"><a href="https://leomancini.net/fb-japan-optimizations" target="_blank" rel="noopener">Japan</a></span> &ndash; research on identity
 				<br>
-				<span class="project-name">India</span> &ndash; design for multiple languages
+				<span class="project-name"><a href="https://leomancini.net/fb-india-optimizations" target="_blank" rel="noopener">India</a></span> &ndash; design for multiple languages
 				<br>
 				<span class="project-name">Small Devices</span> &ndash; interaction optimizations for various devices
 				<br>
