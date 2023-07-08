@@ -24,8 +24,9 @@
 		<h2>Portfolio: <a href="http://leo.gd">www.leo.gd</a> &nbsp;&nbsp;&nbsp; Email: <a href="mailto:mancini@leo.gd">mancini@leo.gd</a></h2>
 	</div>
 	<div id="position">
-		<h3>Cash App</h3>
+		<h3><a href="https://leomancini.net/cash-app-website" target="_blank" rel="noopener">Cash App</a></h3>
 		<h4>Senior Product Designer &nbsp;<span class="inline-description">October 2022 &ndash; present</span></h4>
+		<div class="description">Creating a <a href="https://leomancini.net/cash-app-website" target="_blank" rel="noopener">web platform</a> to increase access to financial services</div>
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/##square" target="_blank" rel="noopener">Square</a></h3>
@@ -134,7 +135,7 @@
 	<div id="position" class="print-hidden">
 		<h3><a href="https://leomancini.net/##sva-engineering" target="_blank" rel="noopener">School of Visual Arts</a></h3>
 		<h4>Engineer and Application Developer &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
-		<div class="description">Built <a href="https://leomancini.net/sva-2012-portfolio-app" target="_blank" rel="noopener">senior-class portfolio iOS app</a> and <span href="https://leomancini.net/sva-attendance-app" target="_blank" rel="noopener">attendance system</span> for lectures</div>
+		<div class="description">Built <a href="https://leomancini.net/sva-2012-portfolio-app" target="_blank" rel="noopener">senior-class portfolio iOS app</a> and <a href="https://leomancini.net/sva-attendance-app" target="_blank" rel="noopener">attendance system</a> for lectures</div>
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/bestvendor" target="_blank" rel="noopener">BestVendor</a></h3>
@@ -147,7 +148,7 @@
 		<h4>Fine Arts and Humanities Honors Program &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
 	</div>
 	<div id="position" class="print-hidden">
-		<h3><a href="http://qc.cuny.edu" target="_blank" rel="noopener">Queens College, City University of New York</a></h3>
+		<h3>Queens College, City University of New York</h3>
 		<h4 style="width: 620px;">Townsend Harris High School senior-year course work &nbsp;<span class="inline-description">August 2010 &ndash; May 2011</span></h4>
 	</div>
 </div>

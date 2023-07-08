@@ -8,21 +8,12 @@
 	</div>
 
 	<button id="info-button" class="expand">
-		<div class="info-button-content expand">More Info</div>
+		<div class="info-button-content expand">More</div>
 		<div class="info-button-content collapse"><div class="x-button"><img src="<?php echo $path; ?>resources/images/x.png" style="width: 36px" alt="Collapse additional info"></div></div>
 	</button>
 
 	<div class="expanded-content" data-expanded="0">		
 		<div class="description">
-			<div class="text">
-			<div class="text-block">
-				<span class="title">Problem</span>
-				<p>_PLACEHOLDER_</p></div><div class="text-block">
-				<span class="title">Solution</span>
-				<p>_PLACEHOLDER_</p></div><div class="text-block">
-				<span class="title">Role</span>
-				<p>_PLACEHOLDER_</p></div>
-			</div>
 		</div>
 
 		<div class="slide-thumbnail-set">
