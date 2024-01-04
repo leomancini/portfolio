@@ -25,12 +25,12 @@
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/cash-app-website" target="_blank" rel="noopener">Cash App</a></h3>
-		<h4>Senior Product Designer &nbsp;<span class="inline-description">October 2022 &ndash; present</span></h4>
+		<h4>Staff Product Designer &nbsp;<span class="inline-description">October 2022 &ndash; present</span></h4>
 		<div class="description">Creating a <a href="https://leomancini.net/cash-app-website" target="_blank" rel="noopener">web platform</a> to increase access to financial services</div>
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/##square" target="_blank" rel="noopener">Square</a></h3>
-		<h4>Senior Product Designer &nbsp;<span class="inline-description">April 2020 &ndash; October 2022</span></h4>
+		<h4>Staff Product Designer &nbsp;<span class="inline-description">April 2020 &ndash; October 2022</span></h4>
 		<div class="description">Designing products to expand access to economic opportunity</div>
 	</div>
 	<div id="position">
