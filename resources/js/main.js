@@ -66,9 +66,6 @@ function toggle_expanded_content(section_id_function_variable) {
 	if(expanded_content.attr("data-expanded") == 0) {
 		// EXPAND
 		
-		// send event to Google Analytics for logging
-		gtag('event', section_id, { 'event_category': 'expand' });
-		
 		// ----- load images -----
 		
 		// load images
@@ -146,10 +143,7 @@ function toggle_expanded_content(section_id_function_variable) {
 		
 	} else {
 		// COLLAPSE
-		
-		// send event to Google Analytics for logging
-		gtag('event', section_id, { 'event_category': 'collapse' });
-		
+
 		// ----- content transition -----
 		
 		// set variable "expanded" to false

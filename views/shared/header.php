@@ -70,14 +70,6 @@
 		<script src="<?php echo $path; ?>resources/js/lib/jquery.js"></script>
 		<script src="<?php echo $path; ?>resources/js/main.js"></script>
 		<meta name="viewport" content="width=1300">
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112757234-1"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-
-			gtag('config', 'UA-112757234-1');
-		</script>
 	</head>
 	<?php if($dark_mode) { ?><body class="dark-mode"><?php } else { ?><body><?php } ?>
 		<div id="container"<?php if($internal_page_switch == true) { echo " class='internal-page-switch'"; } ?>>

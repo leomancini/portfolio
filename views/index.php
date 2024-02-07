@@ -20,6 +20,10 @@
 	} else {
 		$projects = Array(
 			Array(
+				"id" => "cash-app",
+				"title" => "Cash App"
+			),
+			Array(
 				"id" => "fb-stories-and-direct",
 				"title" => "Stories"
 			),

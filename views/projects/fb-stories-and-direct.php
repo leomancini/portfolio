@@ -2,7 +2,8 @@
 
 <div id="<?php echo $project; ?>" class="section-pointer"></div>
 
-<div id="<?php echo $project; ?>-content" class="section light grey-blue">
+<div id="<?php echo $project; ?>-content" class="section light white">
+	<div class="grey-divider"></div>
 	<div class="header">
 		<h1>Facebook Stories and Direct</h1>
 		<h2>Share your day with friends<br>and send private visual messages.</h2>
