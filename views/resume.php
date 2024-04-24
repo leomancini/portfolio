@@ -24,14 +24,19 @@
 		<h2>Portfolio: <a href="http://leo.gd">www.leo.gd</a> &nbsp;&nbsp;&nbsp; Email: <a href="mailto:mancini@leo.gd">mancini@leo.gd</a></h2>
 	</div>
 	<div id="position">
+		<h3>Product Design Consultant</h3>
+		<h4><span class="inline-description">April 2024 &ndash; present</span></h4>
+		<div class="description">Partnering with teams to design, prototype, and build various ideas</div>
+	</div>
+	<div id="position">
 		<h3><a href="https://leomancini.net/cash-app-website" target="_blank" rel="noopener">Cash App</a></h3>
-		<h4>Staff Product Designer &nbsp;<span class="inline-description">October 2022 &ndash; present</span></h4>
-		<div class="description">Creating a <a href="https://leomancini.net/cash-app-website" target="_blank" rel="noopener">web platform</a> to increase access to financial services</div>
+		<h4>Staff Product Designer &nbsp;<span class="inline-description">October 2022 &ndash; March 2024</span></h4>
+		<div class="description">Created a <a href="https://leomancini.net/cash-app-website" target="_blank" rel="noopener">web platform</a> to increase access to financial services</div>
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/##square" target="_blank" rel="noopener">Square</a></h3>
 		<h4>Staff Product Designer &nbsp;<span class="inline-description">April 2020 &ndash; October 2022</span></h4>
-		<div class="description">Designing products to expand access to economic opportunity</div>
+		<div class="description">Designed products to expand access to economic opportunity</div>
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/##indeed" target="_blank" rel="noopener">Indeed</a></h3>
