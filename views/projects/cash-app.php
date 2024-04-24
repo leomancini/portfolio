@@ -33,7 +33,7 @@
 			<div class="slide-thumbnail-wrapper selected" data-slide-id="0">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/activity.jpg" style="width: 168px; height: 114px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/activity.jpg" style="width: 149px; height: 92px;">
 					</div>
 				</div>
 				<label>Activity</label>
@@ -41,31 +41,31 @@
 			<div class="slide-thumbnail-wrapper" data-slide-id="1">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/money.jpg" style="width: 168px; height: 114px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/cash.jpg" style="width: 149px; height: 92px;">
 					</div>
 				</div>
-				<label>Money</label>
+				<label>Cash</label>
 			</div>
 			<div class="slide-thumbnail-wrapper" data-slide-id="2">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/p2p.jpg" style="width: 168px; height: 114px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/savings.jpg" style="width: 149px; height: 92px;">
 					</div>
 				</div>
-				<label>Payments</label>
+				<label>Savings</label>
 			</div>
 			<div class="slide-thumbnail-wrapper" data-slide-id="3">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/statements-dark.jpg" style="width: 168px; height: 114px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/card.jpg" style="width: 149px; height: 92px;">
 					</div>
 				</div>
-				<label>Statements</label>
+				<label>Card</label>
 			</div>
 			<div class="slide-thumbnail-wrapper" data-slide-id="4">
 				<div class="slide-thumbnail">
 					<div class="slide-thumbnail-image">
-						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/account-dark.jpg" style="width: 168px; height: 114px;">
+						<img src="<?php echo $path; ?>content/<?php echo $project; ?>/thumbs/account-dark.jpg" style="width: 149px; height: 92px;">
 					</div>
 				</div>
 				<label>Account</label>
@@ -73,40 +73,40 @@
 		</div>
 	</div>
 
-	<div class="content" style="height: 990px;">
+	<div class="content" style="height: 620px;">
 				<div class="slide selected" data-slide-id="0">
 			<div class="slide-contents">							
 				<div class="image-with-loading-placeholder">
-					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/activity.jpg" style="width: 1322px; height: 990px; position: absolute; left: 50%; margin-left: -660px;">
-					<div class="placeholder" style="width: 1280px; height: 990px; left: 50%; top: 12px; margin-left: -640px;">
-						<div class="desktop-loading-top" style="background: #FFFFFF; position: absolute; width: 1280px; height: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-top.jpg" alt="Loading..." style="width: 1280px; height: 40px;"></div>
-						<div class="desktop-loading-middle" style="background: #FFFFFF; position: absolute; width: 1280px; height: 910px; margin-top: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-middle.jpg" alt="Loading..." style="width: 1280px; height: 100%;"></div>
-						<div class="desktop-loading-bottom" style="background: #FFFFFF; position: absolute; width: 1280px; height: 40px; margin-top: 722px;"><img src="<?php echo $path; ?>content/common/desktop-loading-bottom.jpg" alt="Loading..." style="width: 1280px; height: 40px;"></div>
+					<img src="<?php echo $path; ?>content/<?php echo $project; ?>/activity.jpg" style="width: 1001px; height: 620px; position: absolute; left: 50%; margin-left: -500px;">
+					<div class="placeholder" style="width: 961px; height: 620px; left: 50%; top: 12px; margin-left: -480px;">
+						<div class="desktop-loading-top" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-top.jpg" alt="Loading..." style="width: 961px; height: 40px;"></div>
+						<div class="desktop-loading-middle" style="background: #FFFFFF; position: absolute; width: 961px; height: 500px; margin-top: 40px;"><img src="<?php echo $path; ?>content/common/desktop-loading-middle.jpg" alt="Loading..." style="width: 961px; height: 100%;"></div>
+						<div class="desktop-loading-bottom" style="background: #FFFFFF; position: absolute; width: 961px; height: 40px; margin-top: 540px;"><img src="<?php echo $path; ?>content/common/desktop-loading-bottom.jpg" alt="Loading..." style="width: 961px; height: 40px;"></div>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="slide" data-slide-id="1">
 			<div class="slide-contents">
-				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/money.jpg" style="width: 1322px; height: 990px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/cash.jpg" style="width: 1001px; height: 620px;">
 				<div class="caption" style="display: block; margin-top: 40px;">The unit shows each topic with a headline for context.</div>
 			</div>
 		</div>
 		<div class="slide" data-slide-id="2">
 			<div class="slide-contents">
-				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/p2p.jpg" style="width: 1322px; height: 990px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/savings.jpg" style="width: 1001px; height: 620px;">
 				<div class="caption" style="display: block; margin-top: 40px;">The unit shows each topic with a headline for context.</div>
 			</div>
 		</div>
 		<div class="slide" data-slide-id="3">
 			<div class="slide-contents">
-				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/statements-dark.jpg" style="width: 1322px; height: 990px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/card.jpg" style="width: 1001px; height: 620px;">
 				<div class="caption" style="display: block; margin-top: 40px;">The unit shows each topic with a headline for context.</div>
 			</div>
 		</div>
 		<div class="slide" data-slide-id="4">
 			<div class="slide-contents">
-				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/account-dark.jpg" style="width: 1322px; height: 990px;">
+				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/account-dark.jpg" style="width: 1001px; height: 620px;">
 				<div class="caption" style="display: block; margin-top: 40px;">The unit shows each topic with a headline for context.</div>
 			</div>
 		</div>
