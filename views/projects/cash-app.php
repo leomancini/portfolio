@@ -89,25 +89,25 @@
 		<div class="slide" data-slide-id="1">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/cash.jpg" style="width: 1001px; height: 620px;">
-				<div class="caption" style="display: block; margin-top: 40px;">The unit shows each topic with a headline for context.</div>
+				<div class="caption" style="display: block; margin-top: 40px;">View your balance, move money, and set up direct deposit.</div>
 			</div>
 		</div>
 		<div class="slide" data-slide-id="2">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/savings.jpg" style="width: 1001px; height: 620px;">
-				<div class="caption" style="display: block; margin-top: 40px;">The unit shows each topic with a headline for context.</div>
+				<div class="caption" style="display: block; margin-top: 40px;">View your savings goal and history of transfers.</div>
 			</div>
 		</div>
 		<div class="slide" data-slide-id="3">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/card.jpg" style="width: 1001px; height: 620px;">
-				<div class="caption" style="display: block; margin-top: 40px;">The unit shows each topic with a headline for context.</div>
+				<div class="caption" style="display: block; margin-top: 40px;">Control your security settings or replace your card.</div>
 			</div>
 		</div>
 		<div class="slide" data-slide-id="4">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/account-dark.jpg" style="width: 1001px; height: 620px;">
-				<div class="caption" style="display: block; margin-top: 40px;">The unit shows each topic with a headline for context.</div>
+				<div class="caption" style="display: block; margin-top: 40px;">Update your profile information or account settings.</div>
 			</div>
 		</div>
 	</div>
