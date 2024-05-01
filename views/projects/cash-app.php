@@ -107,7 +107,7 @@
 		<div class="slide" data-slide-id="4">
 			<div class="slide-contents">
 				<img data-delay-load-src="<?php echo $path; ?>content/<?php echo $project; ?>/account-dark.jpg" style="width: 1001px; height: 620px;">
-				<div class="caption" style="display: block; margin-top: 40px;">Update your profile information or account settings.</div>
+				<div class="caption" style="display: block; margin-top: 40px;">Update your profile information and account settings.</div>
 			</div>
 		</div>
 	</div>
