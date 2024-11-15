@@ -21,7 +21,7 @@
 				<span class="title">Problem</span>
 				<p>I love traveling and documenting my experiences. I make lists to remember places that I've enjoyed in different cities.</p><p>Foursquare has a rich database of places, but I wasn't satisfied with the way you could browse or share lists. I wanted more features and a cleaner layout.</p></div><div class="text-block">
 				<span class="title">Solution</span>
-				<p>Using the <a target="_blank" rel="noopener" href="https://developer.foursquare.com/places-api">Foursquare API</a>, I built a product that displays the lists I've made, with a page for each list that can be shared.</p><p>Places are ranked by rating and organized by category. You can filter by a combination of category, neighborhood, and rating — or search by any metadata.<p></p></div><div class="text-block">
+				<p>Using the <a target="_blank" rel="noopener" href="https://docs.foursquare.com/developer/reference/places-api-overview">Foursquare API</a>, I built a product that displays the lists I've made, with a page for each list that can be shared.</p><p>Places are ranked by rating and organized by category. You can filter by a combination of category, neighborhood, and rating — or search by any metadata.<p></p></div><div class="text-block">
 				<span class="title">Role</span>
 				<p>This was a personal project I built during the summer of 2017.</p><p>I designed the interface and built a system for syncing with the Foursquare API to keep the data up to date.</p><p>I engineered all the features to filter, search, and browse places and lists.</p></div>
 			</div>
