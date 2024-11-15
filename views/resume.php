@@ -24,19 +24,45 @@
 		<h2>Portfolio: <a href="http://leo.gd">www.leo.gd</a> &nbsp;&nbsp;&nbsp; Email: <a href="mailto:mancini@leo.gd">mancini@leo.gd</a></h2>
 	</div>
 	<div id="position">
+		<h3><a href="https://propel.app" target="_blank" rel="noopener">Propel</a></h3>
+		<h4>Principal Product Design Technologist &nbsp;<span class="inline-description">December 2024 &ndash; present</span></h4>
+	</div>
+	<div id="position">
 		<h3>Product Design Consultant</h3>
-		<h4><span class="inline-description">April 2024 &ndash; present</span></h4>
-		<div class="description">Partnering with teams to design, prototype, and build various ideas</div>
+		<h4><span class="inline-description">April 2024 &ndash; November 2024</span></h4>
+		<div class="description">
+			<span class="projects">
+				<h5>Clients</h5>
+				<span class="project-name"><a href="https://propel.app" target="_blank" rel="noopener">Propel</a></span> &ndash; Incubating products for people relying on government benefits
+				<br>
+				<span class="project-name"><a href="https://trybraid.io/" target="_blank" rel="noopener">Braid</a></span> &ndash; Designed and launched product to facilitate team engagement
+				<br>
+				<span class="project-name"><a href="https://cash.app" target="_blank" rel="noopener">Cash App</a></span> &ndash; Expanded banking feature set on desktop web
+				<br>
+				<span class="project-name"><a href="https://distill.fyi" target="_blank" rel="noopener">Distill</a></span> &ndash; Designed AI tool to research people and companies
+				<br>
+				<span class="project-name"><a href="https://slopepay.com" target="_blank" rel="noopener">Slope</a></span> &ndash; Optimized flows for businesses to access growth capital
+			</span>
+		</div>
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/cash-app-website" target="_blank" rel="noopener">Cash App</a></h3>
 		<h4>Staff Product Designer &nbsp;<span class="inline-description">October 2022 &ndash; March 2024</span></h4>
-		<div class="description">Created a <a href="https://leomancini.net/cash-app-website" target="_blank" rel="noopener">web platform</a> to increase access to financial services</div>
+		<div class="description">Launched a <a href="https://leomancini.net/cash-app-website" target="_blank" rel="noopener">new desktop web platform</a> to increase access to financial services
+</div>
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/##square" target="_blank" rel="noopener">Square</a></h3>
 		<h4>Staff Product Designer &nbsp;<span class="inline-description">April 2020 &ndash; October 2022</span></h4>
-		<div class="description">Designed products to expand access to economic opportunity</div>
+		<div class="description">
+			<p>Designed products to expand access to economic opportunity</p>
+			<ul>
+				<li>Expanded availability of <a href="https://leomancini.net/sq-early-wage-access" target="_blank" rel="noopener">Early Wage Access features</a> that provides a way for employees of Square businesses to access a portion of their wages before the end of the pay period</li>
+				<li>Simplified the <a href="https://leomancini.net/sq-payroll-schedule" target="_blank" rel="noopener">experience of setting up a pay schedule</a> on Square Payroll and access faster money movement, which was the top issue reported by sellers</li>
+				<li>Prototyped <a href="https://leomancini.net/sq-idv-configurator" target="_blank" rel="noopener">systems for automatically generating screens</a> to support onboarding sellers across countries and business types</li>
+				<li>Designed a <a href="https://leomancini.net/sq-information-requests" target="_blank" rel="noopener">communication platform</a> that helped increase the types of businesses that could use Square payment processing</li>
+			</ul>
+		</div>
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/##indeed" target="_blank" rel="noopener">Indeed</a></h3>
@@ -81,35 +107,35 @@
 			</ul>
 			<span class="projects">
 				<h5>Sharing</h5>
-				<span class="project-name"><a href="https://leomancini.net/fb-stories-and-direct" target="_blank" rel="noopener">Stories</a></span> &ndash; share your day with friends
+				<span class="project-name"><a href="https://leomancini.net/fb-stories-and-direct" target="_blank" rel="noopener">Stories</a></span> &ndash; Share your day with friends
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-stories-and-direct" target="_blank" rel="noopener">Direct</a></span> &ndash; send ephemeral photos and videos
+				<span class="project-name"><a href="https://leomancini.net/fb-stories-and-direct" target="_blank" rel="noopener">Direct</a></span> &ndash; Send ephemeral photos and videos
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-friends-browser" target="_blank" rel="noopener">Friends Browser</a></span> &ndash; connect with your closest friends
+				<span class="project-name"><a href="https://leomancini.net/fb-friends-browser" target="_blank" rel="noopener">Friends Browser</a></span> &ndash; Connect with your closest friends
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-riff" target="_blank" rel="noopener">Riff</a></span> &ndash; create videos together with friends
+				<span class="project-name"><a href="https://leomancini.net/fb-riff" target="_blank" rel="noopener">Riff</a></span> &ndash; Create videos together with friends
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-text-filters" target="_blank" rel="noopener">Text Filters</a></span> &ndash; add emotion and style to text posts
+				<span class="project-name"><a href="https://leomancini.net/fb-text-filters" target="_blank" rel="noopener">Text Filters</a></span> &ndash; Add emotion and style to text posts
 				<br>
 				<h5>Audience</h5>
-				<span class="project-name"><a href="https://leomancini.net/fb-blush" target="_blank" rel="noopener">Teens</a></span> &ndash; experiments in visual sharing
+				<span class="project-name"><a href="https://leomancini.net/fb-blush" target="_blank" rel="noopener">Teens</a></span> &ndash; Experiments in visual sharing
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-japan-optimizations" target="_blank" rel="noopener">Japan</a></span> &ndash; research on identity
+				<span class="project-name"><a href="https://leomancini.net/fb-japan-optimizations" target="_blank" rel="noopener">Japan</a></span> &ndash; Research on identity
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-india-optimizations" target="_blank" rel="noopener">India</a></span> &ndash; design for multiple languages
+				<span class="project-name"><a href="https://leomancini.net/fb-india-optimizations" target="_blank" rel="noopener">India</a></span> &ndash; Design for multiple languages
 				<br>
-				<span class="project-name">Small Devices</span> &ndash; interaction optimizations for various devices
+				<span class="project-name">Small Devices</span> &ndash; Interaction optimizations for various devices
 				<br>
 				<h5>Public Content</h5>
-				<span class="project-name"><a href="https://leomancini.net/fb-trending" target="_blank" rel="noopener">Trending</a></span> &ndash; learn about current events through conversations
+				<span class="project-name"><a href="https://leomancini.net/fb-trending" target="_blank" rel="noopener">Trending</a></span> &ndash; Learn about current events through conversations
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-news-feed-discovery" target="_blank" rel="noopener">News Feed Discovery</a></span> &ndash; discover new articles, videos, and sources
+				<span class="project-name"><a href="https://leomancini.net/fb-news-feed-discovery" target="_blank" rel="noopener">News Feed Discovery</a></span> &ndash; Discover new articles, videos, and sources
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-notes" target="_blank" rel="noopener">Notes</a></span> &ndash; share and read articles and writing
+				<span class="project-name"><a href="https://leomancini.net/fb-notes" target="_blank" rel="noopener">Notes</a></span> &ndash; Share and read articles and writing
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-mentions-app" target="_blank" rel="noopener">Mentions</a></span> &ndash; interact with your followers as a public figure or celebrity
+				<span class="project-name"><a href="https://leomancini.net/fb-mentions-app" target="_blank" rel="noopener">Mentions</a></span> &ndash; Interact with your followers as a public figure or celebrity
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-pages" target="_blank" rel="noopener">Pages</a></span> &ndash; learn about brands and businesses
+				<span class="project-name"><a href="https://leomancini.net/fb-pages" target="_blank" rel="noopener">Pages</a></span> &ndash; Learn about brands and businesses
 			</span>
 		</div>
 	</div>
@@ -119,11 +145,11 @@
 		<div class="description">
 			<span class="projects">
 				<h5>Projects</h5>
-				<span class="project-name"><a href="https://leomancini.net/fb-boosted-posts" target="_blank" rel="noopener">Boosted Posts</a></span> &ndash; connect with your audience
+				<span class="project-name"><a href="https://leomancini.net/fb-boosted-posts" target="_blank" rel="noopener">Boosted Posts</a></span> &ndash; Connect with your audience
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-threaded-comments" target="_blank" rel="noopener">Threaded Comments</a></span> &ndash; reply to comments
+				<span class="project-name"><a href="https://leomancini.net/fb-threaded-comments" target="_blank" rel="noopener">Threaded Comments</a></span> &ndash; Reply to comments
 				<br>
-				<span class="project-name"><a href="https://leomancini.net/fb-topic-pages" target="_blank" rel="noopener">Topic Pages</a></span> &ndash; learn about subjects and interests
+				<span class="project-name"><a href="https://leomancini.net/fb-topic-pages" target="_blank" rel="noopener">Topic Pages</a></span> &ndash; Learn about subjects and interests
 			</span>
 		</div>
 	</div>
