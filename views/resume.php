@@ -28,7 +28,7 @@
 		<h4>Principal Product Design Technologist &nbsp;<span class="inline-description">December 2024 &ndash; present</span></h4>
 	</div>
 	<div id="position">
-		<h3>Product Design Consultant</h3>
+		<h3><a href="https://leomancini.net/##freelance%202024" target="_blank" rel="noopener">Product Design Consultant</a></h3>
 		<h4><span class="inline-description">April 2024 &ndash; November 2024</span></h4>
 		<div class="description">
 			<span class="projects">
