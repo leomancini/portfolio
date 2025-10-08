@@ -24,7 +24,7 @@
 		<h2>Portfolio: <a href="http://leo.gd">www.leo.gd</a> &nbsp;&nbsp;&nbsp; Email: <a href="mailto:mancini@leo.gd">mancini@leo.gd</a></h2>
 	</div>
 	<div id="position">
-		<h3><a href="https://propel.app" target="_blank" rel="noopener">Propel</a></h3>
+		<h3><a href="https://leomancini.net/##propel" target="_blank" rel="noopener">Propel</a></h3>
 		<h4>Principal Product Design Technologist &nbsp;<span class="inline-description">December 2024 &ndash; present</span></h4>
 	</div>
 	<div id="position">
@@ -33,15 +33,15 @@
 		<div class="description">
 			<span class="projects">
 				<h5>Clients</h5>
-				<span class="project-name"><a href="https://propel.app" target="_blank" rel="noopener">Propel</a></span> &ndash; Incubating products for people relying on government benefits
+				<span class="project-name"><a href="https://leomancini.net/propel-dsnp-plan-navigator" target="_blank" rel="noopener">Propel</a></span> &ndash; Incubating products for people relying on government benefits
 				<br>
-				<span class="project-name"><a href="https://trybraid.io/" target="_blank" rel="noopener">Braid</a></span> &ndash; Designed and launched product to facilitate team engagement
+				<span class="project-name"><a href="https://leomancini.net/##braid" target="_blank" rel="noopener">Braid</a></span> &ndash; Designed and launched product to facilitate team engagement
 				<br>
-				<span class="project-name"><a href="https://cash.app" target="_blank" rel="noopener">Cash App</a></span> &ndash; Expanded banking feature set on desktop web
+				<span class="project-name"><a href="https://leomancini.net/cash-app-card-studio" target="_blank" rel="noopener">Cash App</a></span> &ndash; Expanded banking feature set on desktop web
 				<br>
-				<span class="project-name"><a href="https://distill.fyi" target="_blank" rel="noopener">Distill</a></span> &ndash; Designed AI tool to research people and companies
+				<span class="project-name"><a href="https://leomancini.net/distill" target="_blank" rel="noopener">Distill</a></span> &ndash; Designed AI tool to research people and companies
 				<br>
-				<span class="project-name"><a href="https://slopepay.com" target="_blank" rel="noopener">Slope</a></span> &ndash; Optimized flows for businesses to access growth capital
+				<span class="project-name"><a href="https://leomancini.net/slope" target="_blank" rel="noopener">Slope</a></span> &ndash; Optimized flows for businesses to access growth capital
 			</span>
 		</div>
 	</div>
