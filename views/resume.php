@@ -96,7 +96,7 @@
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/##fb-fte" target="_blank" rel="noopener">Facebook</a></h3>
-		<h4>Lead Product Designer &nbsp;<span class="inline-description">October 2012 &ndash; September 2017</span></h4>
+		<h4>Staff Product Designer &nbsp;<span class="inline-description">October 2012 &ndash; September 2017</span></h4>
 		<div class="description">
 			<p>Collaborated with product teams to identify high-impact problems and develop solutions in sharing, audience, and public content</p>
 			<ul>
