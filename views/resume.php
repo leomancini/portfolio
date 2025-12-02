@@ -72,7 +72,7 @@
 		<h4>Product Design Technologist &nbsp;<span class="inline-description">December 2018 &ndash; April 2020</span></h4>
 		<div class="description">
 			<p>Focused on designing for people who are experiencing barriers to employment</p>
-			<ul>
+			<ul class="print-hidden">
 				<li>Launched <a href="https://leomancini.net/indeed-job-feed" target="_blank" rel="noopener">personalized feed of jobs on the homepage</a> and built algorithms to highlight new and relevant jobs</li>
 				<li>Crafted <a href="https://leomancini.net/indeed-mobile-app" target="_blank" rel="noopener">long-term design vision for the Indeed native app</a></li>
 				<li>Designed <a href="https://leomancini.net/indeed-experimental-apps" target="_blank" rel="noopener">experimental apps</a> to connect people with jobs tailored to their needs, including short commute, living wage, or hiring immediately</li>
@@ -85,7 +85,7 @@
 		<h4>Lead Product Designer &nbsp;<span class="inline-description">April 2018 &ndash; December 2018</span></h4>
 		<div class="description">
 			<p>Developed products and strategies to improve delivery of America's public workforce services</p>
-			<ul>
+			<ul class="print-hidden">
 				<li>Worked with policy and product managers to identify systemic issues across the country</li>
 				<li>Conducted research to understand problems faced by job seekers with significant barriers to employment, including people with criminal records and individuals relying on food stamps</li>
 				<li>Designed and prototyped technology to alleviate key pain points, including <a href="https://leomancini.net/job-training-search-tool" target="_blank" rel="noopener">finding high-quality training problems eligible for tuition assistance</a>, <a href="https://leomancini.net/portable-job-seeker-profile-v2" target="_blank" rel="noopener">enabling job seekers to carry their data between service providers</a>, and <a href="https://leomancini.net/job-commute-search-tool" target="_blank" rel="noopener">searching for a job with an easy and low-cost commute</a></li>
