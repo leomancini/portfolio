@@ -21,7 +21,7 @@
 <div id="resume">
 	<div id="print-header">
 		<h1>Leo Mancini</h1>
-		<h2>Portfolio: <a href="http://leo.gd">www.leo.gd</a> &nbsp;&nbsp;&nbsp; Email: <a href="mailto:mancini@leo.gd">mancini@leo.gd</a></h2>
+		<h2>Portfolio: <a href="http://leo.gd">leo.gd</a> &nbsp;&nbsp;&nbsp; Timeline: <a href="http://leomancini.net">leomancini.net</a> &nbsp;&nbsp;&nbsp; Email: <a href="mailto:mancini@leo.gd">mancini@leo.gd</a></h2>
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/##propel" target="_blank" rel="noopener">Propel</a></h3>
@@ -177,7 +177,7 @@
 		<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Summer 2011</span></h4>
 		<div class="description print-hidden">Designed and built <a href="https://leomancini.net/bestvendor" target="_blank" rel="noopener">new product features</a></div>
 	</div>
-	<h6>Education</h6>
+	<h6 class="print-hidden">Education</h6>
 	<div id="position">
 		<h3><a href="https://leomancini.net/##sva" target="_blank" rel="noopener">School of Visual Arts</a></h3>
 		<h4>Fine Arts and Humanities Honors Program &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
