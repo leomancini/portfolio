@@ -26,6 +26,9 @@
 	<div id="position">
 		<h3><a href="https://propel.app" target="_blank" rel="noopener">Propel</a></h3>
 		<h4>Principal Product Design Technologist &nbsp;<span class="inline-description">December 2024 &ndash; present</span></h4>
+		<div class="description">
+			<p>Prototyping and researching how AI can improve delivery of public benefits</p>
+		</div>
 	</div>
 	<div id="position">
 		<h3>Product Design Consultant</h3>
@@ -33,7 +36,7 @@
 		<div class="description">
 			<span class="projects">
 				<h5>Clients</h5>
-				<span class="project-name"><a href="https://propel.app" target="_blank" rel="noopener">Propel</a></span> &ndash; Incubating products for people relying on government benefits
+				<span class="project-name"><a href="https://propel.app" target="_blank" rel="noopener">Propel</a></span> &ndash; Incubated products for people relying on government benefits
 				<br>
 				<span class="project-name"><a href="https://trybraid.io/" target="_blank" rel="noopener">Braid</a></span> &ndash; Designed and launched product to facilitate team engagement
 				<br>
@@ -56,7 +59,7 @@
 		<h4>Staff Product Designer &nbsp;<span class="inline-description">April 2020 &ndash; October 2022</span></h4>
 		<div class="description">
 			<p>Designed products to expand access to economic opportunity</p>
-			<ul>
+			<ul class="print-hidden">
 				<li>Expanded availability of <a href="https://leomancini.net/sq-early-wage-access" target="_blank" rel="noopener">Early Wage Access features</a> that provides a way for employees of Square businesses to access a portion of their wages before the end of the pay period</li>
 				<li>Simplified the <a href="https://leomancini.net/sq-payroll-schedule" target="_blank" rel="noopener">experience of setting up a pay schedule</a> on Square Payroll and access faster money movement, which was the top issue reported by sellers</li>
 				<li>Prototyped <a href="https://leomancini.net/sq-idv-configurator" target="_blank" rel="noopener">systems for automatically generating screens</a> to support onboarding sellers across countries and business types</li>
@@ -92,20 +95,20 @@
 	<div id="position">
 		<h3><a href="https://leomancini.net/##open-dream" target="_blank" rel="noopener">Open Dream</a></h3>
 		<h4>Co-Founder &nbsp;<span class="inline-description">September 2017 &ndash; November 2017</span></h4>
-		<div class="description">Prototyped and tested ways to increase access to economic opportunities in America, including a <a href="https://leomancini.net/village-time" target="_blank" rel="noopener">service to help parents create babysitting co-ops to reduce child care costs</a>, models for running a business from your home or vehicle, and mechanisms to enable remote work opportunities for people with physical barriers to employment</div>
+		<div class="description">Prototyped and tested ways to increase access to economic opportunities in America<span class="print-hidden">, including a <a href="https://leomancini.net/village-time" target="_blank" rel="noopener">service to help parents create babysitting co-ops to reduce child care costs</a>, models for running a business from your home or vehicle, and mechanisms to enable remote work opportunities for people with physical barriers to employment</span></div>
 	</div>
 	<div id="position">
 		<h3><a href="https://leomancini.net/##fb-fte" target="_blank" rel="noopener">Facebook</a></h3>
 		<h4>Lead Product Designer &nbsp;<span class="inline-description">October 2012 &ndash; September 2017</span></h4>
 		<div class="description">
-			<p>Collaborated with product teams to identify high-impact problems and develop solutions in sharing, audience, and public content</p>
-			<ul>
+			<p>Collaborated with product teams to develop solutions around sharing, audience, and public content</p>
+			<ul class="print-hidden">
 				<li>Worked with product managers and researchers to develop strategy</li>
 				<li>Designed and prototyped user interfaces and interaction flows</li>
 				<li>Presented to senior leadership and iterated based on feedback</li>
 				<li>As part of London landing team in 2014, initiated projects and grew design team</li>
 			</ul>
-			<span class="projects">
+			<span class="projects print-hidden">
 				<h5>Sharing</h5>
 				<span class="project-name"><a href="https://leomancini.net/fb-stories-and-direct" target="_blank" rel="noopener">Stories</a></span> &ndash; Share your day with friends
 				<br>
@@ -143,7 +146,8 @@
 		<h3><a href="https://leomancini.net/##fb-internship" target="_blank" rel="noopener">Facebook</a></h3>
 		<h4>Product Design Intern &nbsp;<span class="inline-description">Summer 2012</span></h4>
 		<div class="description">
-			<span class="projects">
+			<p>Interned after college freshman year and converted into a full-time employee</p>
+			<span class="projects print-hidden">
 				<h5>Projects</h5>
 				<span class="project-name"><a href="https://leomancini.net/fb-boosted-posts" target="_blank" rel="noopener">Boosted Posts</a></span> &ndash; Connect with your audience
 				<br>
@@ -153,12 +157,12 @@
 			</span>
 		</div>
 	</div>
-	<div id="position">
+	<div id="position" class="print-hidden">
 		<h3><a href="https://oak.is/about/" target="_blank" rel="noopener">Oak Studios</a></h3>
 		<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Spring 2012</span></h4>
 		<div class="description print-hidden">Designed and built parts of <span href="https://www.dropmark.com/" target="_blank" rel="noopener">Dropmark</span></div>
 	</div>
-	<div id="position">
+	<div id="position" class="print-hidden">
 		<h3><a href="https://leomancini.net/##nyc-department-of-education" target="_blank" rel="noopener">New York City Department of Education</a></h3>
 		<h4>Graphic Designer &nbsp;<span class="inline-description">July 2011 &ndash; May 2012</span></h4>
 		<div class="description print-hidden">Created <a href="https://leomancini.net/##nyc-department-of-education" target="_blank" rel="noopener">advertisements, posters, and signage</a> for print and web</div>
@@ -168,7 +172,7 @@
 		<h4>Engineer and Application Developer &nbsp;<span class="inline-description">August 2011 &ndash; May 2012</span></h4>
 		<div class="description">Built <a href="https://leomancini.net/sva-2012-portfolio-app" target="_blank" rel="noopener">senior-class portfolio iOS app</a> and <a href="https://leomancini.net/sva-attendance-app" target="_blank" rel="noopener">attendance system</a> for lectures</div>
 	</div>
-	<div id="position">
+	<div id="position" class="print-hidden">
 		<h3><a href="https://leomancini.net/bestvendor" target="_blank" rel="noopener">BestVendor</a></h3>
 		<h4>Design and Engineering Intern &nbsp;<span class="inline-description">Summer 2011</span></h4>
 		<div class="description print-hidden">Designed and built <a href="https://leomancini.net/bestvendor" target="_blank" rel="noopener">new product features</a></div>
